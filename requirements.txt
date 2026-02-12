@@ -1,4 +1,5 @@
 Django
+MySQLdb
 gunicorn
 mysqlclient
 whitenoise
