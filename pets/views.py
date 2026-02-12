@@ -278,11 +278,11 @@ def check_auth(request):
 
 
 # ----------------- BREEDING PLACEHOLDER -----------------
-class AvailableForBreedingView(APIView):
-    permission_classes = [IsAuthenticated]
+#class AvailableForBreedingView(APIView):
+ #   permission_classes = [IsAuthenticated]
 
-    def get(self, request, *args, **kwargs):
-        return Response({
-            "success": True,
-            "message": "Breeding functionality coming soon!"
-        }, status=status.HTTP_200_OK)
+   # def get(self, request, *args, **kwargs):
+    #    return Response({
+     #       "success": True,
+      #      "message": "Breeding functionality coming soon!"
+       # }, status=status.HTTP_200_OK)

@@ -9,7 +9,7 @@ from .views import (
     ReminderViewSet,
     dashboard_stats,
     check_auth,
-    AvailableForBreedingView,
+   
 )
 
 # Create a router and register viewsets
@@ -31,6 +31,5 @@ urlpatterns = [
     # Auth check endpoint
     path('auth/check/', check_auth, name='check-auth'),
 
-    # Breeding placeholder endpoint
-    path('breeding/matches/', AvailableForBreedingView.as_view(), name='breeding-matches'),
+   
 ]

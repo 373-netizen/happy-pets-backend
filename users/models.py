@@ -7,7 +7,7 @@ def avatar_upload_path(instance, filename):
     filename = f"{instance.username}.{ext}"
     return os.path.join('avatars', str(instance.username), filename)
 
-class CustomUser(AbstractUser):
+class CustomUser(AbstractUser): 
     address = models.CharField(max_length=255, blank=True, null=True)
     avatar = models.ImageField(upload_to=avatar_upload_path, blank=True, null=True)
     phone = models.CharField(max_length=20, blank=True, null=True)
@@ -15,9 +15,11 @@ class CustomUser(AbstractUser):
     latitude = models.DecimalField(max_digits=9, decimal_places=6, blank=True, null=True)
     longitude = models.DecimalField(max_digits=9, decimal_places=6, blank=True, null=True)
 
+    push_notifications_enabled = models.BooleanField(default=False)
+
     def __str__(self):
         return self.username or self.email
-
+    
     @property
     def initials(self):
         if self.first_name and self.last_name:
@@ -72,3 +74,39 @@ class Notification(models.Model):
 
     def __str__(self):
         return f"{self.type} - {self.title}"
+
+
+ # Push notification preferences
+    push_notifications_enabled = models.BooleanField(
+        default=False,
+        help_text='Enable push notifications for new messages'
+    )
+    notification_sound_enabled = models.BooleanField(
+        default=True,
+        help_text='Play sound for new messages'
+    )
+    
+    # Web Push subscription data (for Web Push API if you want to use it later)
+    web_push_subscription = models.JSONField(
+        blank=True,
+        null=True,
+        help_text='Web Push API subscription data'
+    )
+    
+    def __str__(self):
+        return self.username
+    
+    class Meta:
+        db_table = 'users'
+        verbose_name = 'User'
+        verbose_name_plural = 'Users'
+
+
+
+
+
+
+
+
+
+

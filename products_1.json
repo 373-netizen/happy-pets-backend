@@ -1,0 +1,6424 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Canin Golden Retriever Adult",
+    "description": "Premium dog food specifically formulated for Golden Retrievers over 15 months old. Contains EPA, DHA, and borage oil for healthy skin.",
+    "price": 4500,
+    "category": "food",
+    "brand": "Royal Canin",
+    "species": "dog",
+    "suitable_breeds": [
+      "Golden Retriever"
+    ],
+    "image": "C:/P_images/1.jpg",
+    "rating": 4.8,
+    "review_count": 2543,
+    "stock": 150,
+    "tags": [
+      "breed-specific",
+      "premium",
+      "skin-health"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Royal-Canin-Golden-Retriver-Adult/dp/B001AW07V4?th=1",
+      "flipkart": "https://www.flipkart.com/search?q=royal+canin+golden+retriever",
+      "zepto": "https://www.zepto.com/pn/royal-canin-golden-retriever-adult-dog-dry-food-3kg/pvid/a644c7f6-62d7-42cf-82f7-6d9bc4ecb9ab?srsltid=AfmBOoqerO4_g1o0EVCHhOIfZ7SiS7xHwSljt_FhxF5WhcpbgJGOe9TS"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sheba Rich Premium Wet Cat Food",
+    "description": "Fine flakes in gravy featuring tuna and salmon. High-quality protein for a healthy coat and heart.",
+    "price": 90,
+    "category": "food",
+    "brand": "Sheba",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/2.jpg",
+    "rating": 4.7,
+    "review_count": 1205,
+    "stock": 500,
+    "tags": [
+      "wet-food",
+      "gourmet",
+      "tuna"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Sheba-Premium-Flavour-High-moisture-hydration/dp/B079ZLWXH7/ref=sr_1_4_in_f3_0p_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.ZaOLpWzjtsKvceuOiD5ah6RH2UFuyEcTte5f1IoNZLM3dfdlnkLKMyBeeaNDvWwLspF8HJqb7H8PltrYBjk-jkTSJREEasIARbZ3xc22RLQpiANh5l8r0S23LtCI1FNzBxUtYZ8htM7uI_NREdlSdIO6gzUUgCQAAsTpyr5TejbH_69P99mpyHeu07EjK6mb8IJ1nhBXIoyiJr-XWR956WWxf23yoxJLfOcBFUIK6COEJWpMgHkacQpi-S_YYO1x9s7p6NnL8-g55ss7OA3En_CFfMsPXC9Ktx7AWgReMIQ.5xXGvC4UdBEF0-6cn1UyLG22eNr5NWByv0q7mDP5APw&dib_tag=se&qid=1769595689&refinements=p_89%3ASheba&s=pet-supplies&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=1-4&th=1",
+      "flipkart": "https://www.flipkart.com/sheba-rich-premium-wet-cat-food-fish-mix-skipjack-salmon-12-pouches-12-x-35g-420-kg-young-adult-senior-food/p/itm67d79494212d3",
+      "zepto": "https://www.zepto.com/brand/Sheba?srsltid=AfmBOoqEckrXjunMNCRiO6mpC0n5DWw_MJwCZ0aXWvGXK6HFv8X6xtOU"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Vitapol Fruit Food for Cockatiels",
+    "description": "Wholesome blend of seeds and dried fruits specifically designed for Cockatiels and medium birds.",
+    "price": 425,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "Cockatiel",
+      "Lovebirds"
+    ],
+    "image": "C:/P_images/3.jpg",
+    "rating": 4.4,
+    "review_count": 860,
+    "stock": 200,
+    "tags": [
+      "seeds",
+      "fruit-mix",
+      "vitamins"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Vitapol-Cockatiels-Nutritious-Sunflower-Digestion/dp/B00CMPWYNC",
+      "flipkart": "https://www.flipkart.com/vitapol-fruit-smakers-cockatiel-90-gm-0-09-kg-dry-adult-young-senior-bird-food/p/itm5e60789ab28db?pid=PFDH4UVZ7XSUGG7Z&lid=LSTPFDH4UVZ7XSUGG7Z7MSWQ3&marketplace=FLIPKART&cmpid=content_pet-food_8965229628_gmc"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Exo Terra Calcium + D3 Powder",
+    "description": "Essential supplement for reptiles to prevent metabolic bone disease and ensure long-term health.",
+    "price": 750,
+    "category": "medicine",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Gecko",
+      "Turtle"
+    ],
+    "image": "C:/P_images/4.jpg",
+    "rating": 4.9,
+    "review_count": 430,
+    "stock": 45,
+    "tags": [
+      "supplement",
+      "calcium",
+      "health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Amphibians-Supplement-1-4-Ounce/dp/B001B5E7HU",
+      "flipkart": "https://www.flipkart.com/pet-care-international-pci-repti-cal-provide-essential-calcium-vitamin-d3-healthy-reptile-amphibians-100grm-health-supplements/p/itmffp35hhyngjbe"
+    }
+  },
+  {
+    "id": 5,
+    "name": "FURminator deShedding Tool",
+    "description": "Reduces loose hair shedding by up to 90%. Ergonomic handle for comfort and easy use.",
+    "price": 2200,
+    "category": "grooming",
+    "brand": "FURminator",
+    "species": "dog",
+    "suitable_breeds": [
+      "Labrador",
+      "GSD",
+      "Husky"
+    ],
+    "image": "C:/P_images/5.jpg",
+    "rating": 4.6,
+    "review_count": 3400,
+    "stock": 60,
+    "tags": [
+      "grooming",
+      "de-shedding",
+      "professional"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/dp/B0040QQ07C",
+      "flipkart": "https://www.flipkart.com/search?q=furminator"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Himalaya Erina-EP Tick & Flea Shampoo",
+    "description": "Ayurvedic formulation to control ectoparasites like ticks, fleas, and lice in pets.",
+    "price": 350,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/6.jpg",
+    "rating": 4.3,
+    "review_count": 5210,
+    "stock": 400,
+    "tags": [
+      "ayurvedic",
+      "ticks",
+      "shampoo"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Erina-EP-Shampoo-500-ml/dp/B075GQFB2M?s=bazaar&th=1",
+      "flipkart": "https://www.flipkart.com/himalaya-flea-tick-erina-ep-dog-shampoo/p/itmfgyk448wtvymc"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cat Winter Puffer Jacket",
+    "description": "Waterproof and windproof warm jacket for cats and small dogs during peak winter.",
+    "price": 899,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "cat",
+    "suitable_breeds": [
+      "Persian",
+      "Siamese"
+    ],
+    "image": "C:/P_images/7.jpg",
+    "rating": 4.1,
+    "review_count": 120,
+    "stock": 25,
+    "tags": [
+      "winter",
+      "apparel",
+      "waterproof"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Thunder-Tails-Sleeveless-Apparel-Sweatshirt/dp/B0GDT1QBBX/ref=sr_1_99_sspa?dib=eyJ2IjoiMSJ9.ch2RHqUsebXYUjheFG0G7U4GJ8mVX_ytmz_EofV17zpUdGRJ1uzBDl_spEnuLjxurPE1Ev0fciEotXJEx5FwHSEoOncuwH1Z_pIcfvKV0tn7UCeLRhX9fE4Czg0SneVRO71v1Yio4WvibEpBimXRAY7vPJWOBhu6xYKfWe8aAi6xfP40RSaQxSsmcTcjzk6HJHpe_JvLOxssw87CU_aGcTlSntoZXpiW5xvd55cSFv9VFowXpzZoJnIbz0NEsfHCPRv4uuS9dW-z_LmbHMuGdtIFCqtjrp1Dfwgy4rkkVJk.P2mMvufnz_VDAN_4lwDppMaoG44bcoe520Bo5ZvdbKw&dib_tag=se&keywords=cat%2Bjacket&qid=1769596230&sr=8-99-spons&aref=yez3geAKsH&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&th=1",
+      "flipkart": "https://www.flipkart.com/pets-planet-winter-jacket-dog-cat/p/itmf8bd964e3a0a8"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zoo Med Repti Rain Sprinkler",
+    "description": "Automated misting machine for terrariums, bird cages, or indoor gardens.",
+    "price": 8500,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Chameleon",
+      "Iguana"
+    ],
+    "image": "C:/P_images/8.jpg",
+    "rating": 4.5,
+    "review_count": 89,
+    "stock": 10,
+    "tags": [
+      "humidity",
+      "automatic",
+      "mister"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Automatic-Misting-Machine/dp/B0002DJ0QA"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Trixie Bird Playground",
+    "description": "Natural wood activity center for small birds to exercise and play outside the cage.",
+    "price": 1450,
+    "category": "grooming",
+    "brand": "Trixie",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Canaries"
+    ],
+    "image": "C:/P_images/9.jpg",
+    "rating": 4.2,
+    "review_count": 315,
+    "stock": 50,
+    "tags": [
+      "exercise",
+      "wood",
+      "playtime"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/KSK-Wooden-Playground-Small-Bird/dp/B07663ND77/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.F_oDS-wPvWWPGtKAtWMeBLEyUjacD0MXYMaxoiv2IOEg4D7G0fZFMaPSQfEBClOb2OSdimItqc_Ve-o-9YtuROb5MQ1fKxxsty1ZQkHPvLRcrr2KU0yaFBrYjQLvLTnDD5qguo38p4cWSZUBmL8TawKSuErIyrDUDqflfQpJ1SEG99nT4wh565xzc7hrV3rIccHYY7FFH-BtG0tA8TjH8qjxCsNI5G196qqXnRhqsHyPh8X84Ug3um3HYE26t1r-qxULpiIrxxd0WDIseEPte1vwbowi47JpJkFPBXoPL3M.YIx_pmHWVKkUakJhO8CIZVD2bG7xZo8UdDD5c00IPv4&dib_tag=se&keywords=bird+playground&qid=1769596383&sr=8-2-spons&aref=tjV6YoNYue&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=A2QZQAJK0DJQ1N"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Savavet Visio Tears Eye Drops",
+    "description": "Lubricating eye drops for pets suffering from dry eyes or irritation.",
+    "price": 280,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "Pug",
+      "Bulldog",
+      "all"
+    ],
+    "image": "C:/P_images/10.jpg",
+    "rating": 4.6,
+    "review_count": 1420,
+    "stock": 120,
+    "tags": [
+      "eye-care",
+      "veterinary",
+      "lubricant"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "supertails": "https://supertails.com/products/savavet-visiotears-eye-drops?srsltid=AfmBOor5wcGzsRlWCA-Anf6zRv6Fmk70ZwIUeP6CLOPh4H9ujV1Brt1Z"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bayer Drontal Plus Dewormer",
+    "description": "Broad-spectrum dewormer tablets for dogs to treat tapeworms, roundworms, hookworms, and whipworms.",
+    "price": 850,
+    "category": "medicine",
+    "brand": "Bayer",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/11.jpg",
+    "rating": 4.9,
+    "review_count": 8420,
+    "stock": 200,
+    "tags": [
+      "dewormer",
+      "health",
+      "veterinary"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/drontal-plus-dogs/s?k=drontal+plus+dogs",
+      "flipkart": "https://www.flipkart.com/bayer-drontal-plus-pet-dewormer/product-reviews/itmeyp2e8ufpuhpy?pid=PDPEYP2EUNFSGRGB"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Himalaya Liv.52 PET Syrup",
+    "description": "Herbal liver stimulant and hepatoprotective for dogs and cats. Improves appetite and protects liver from toxins.",
+    "price": 180,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/12.jpg",
+    "rating": 4.7,
+    "review_count": 3150,
+    "stock": 150,
+    "tags": [
+      "herbal",
+      "liver-health",
+      "appetite"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Liver-Tonic-Dogs-200ML-Glove/dp/B0FMR9TSH4/ref=sr_1_6?dib=eyJ2IjoiMSJ9.5M1ICx_49t122PjJYtOlO2DYzkO95YEv_z_sgSC50bhjd0tzT8vHtjkpmHzP7qEJuDQzNu_V4izhJcN2aqq34jnsG7UIdfIMTOvlkDhZk_6814h6xhXG47wSY21pSBVCJJmDC-PJMFsA3qD_5YYo7nfhWid00Lgp1VoKZRKNC2SfE_SoNihhagINACZJnqN47DLo_FjcLXmOeRSYCvJZjGnZT2Httx-rBP0DDgP2sZq8dvlOazzndEnjbpQj5-JOIeMPUKd5AAlv5Bp6gosSKaglU_u3s64qI5k_u3nkp-k.-UgVjbkN0V-fc9ey69rv6uHDDR1whjxaq4Xg3t-IsIY&dib_tag=se&keywords=liv+52+pet+syrup&nsdOptOutParam=true&qid=1769596586&sr=8-6",
+      "zepto": "https://www.flipkart.com/himalaya-herbals-liv-52-pet-syrup-200ml-health-supplements/p/itm377e9a44c6a9a"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Reptile Heating Pad",
+    "description": "Under-tank heat mat to provide the necessary belly heat for reptiles and amphibians.",
+    "price": 1200,
+    "category": "grooming",
+    "brand": "Aiicioo",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Ball Python",
+      "Leopard Gecko"
+    ],
+    "image": "C:/P_images/13.jpg",
+    "rating": 4.4,
+    "review_count": 560,
+    "stock": 45,
+    "tags": [
+      "heating",
+      "habitat",
+      "safety"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Sage-Square-Turtle-Heating-Pad/dp/B0D81ZQ3PF/ref=zg_bs_g_4771434031_d_sccl_1/521-7288698-8408254?psc=1",
+      "flipkart": "https://www.flipkart.com/verilux-reptile-heating-pad-under-tank-adjustable-temperature-tortoise-pet-mat/p/itm85cb1f43fddb5"
+    }
+  },
+  {
+    "id": 14,
+    "name": "ZuPreem FruitBlend Bird Food",
+    "description": "Premium daily bird food with natural fruit flavors for small birds like parakeets and budgies.",
+    "price": 1150,
+    "category": "food",
+    "brand": "ZuPreem",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Parakeets"
+    ],
+    "image": "C:/P_images/14.jpg",
+    "rating": 4.8,
+    "review_count": 1100,
+    "stock": 80,
+    "tags": [
+      "nutritional",
+      "colorful",
+      "fruit-pellets"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/ZuPreem-FruitBlend-Flavor-Natural-Flavors/dp/B004UMKHTI?th=1",
+      "flipkart": "https://www.flipkart.com/zupreem-fruitblend-bird-food-small-birds-fruit-0-397-kg-dry-young/p/itme4ca218903d10?pid=PFDFG4CKUSXWNAHC&cmpid=product.share.pp"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Wiggles Organic Paw Cream",
+    "description": "Soothing organic balm for dry, cracked paws and elbows. Safe if licked.",
+    "price": 349,
+    "category": "grooming",
+    "brand": "Wiggles",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/15.jpg",
+    "rating": 4.5,
+    "review_count": 890,
+    "stock": 120,
+    "tags": [
+      "organic",
+      "moisturizer",
+      "healing"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/WiggleBoo-Paw-Guard-Professional-Fungal-Free/dp/B0C3CFFTGZ?th=1",
+      "flipkart": "https://www.flipkart.com/wiggles-heal-o-rub-organic-healer-dogs-cats-pack-30-gm-pet-spa-kit/p/itm17d319ce75c2c"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Petvante Bird Flight Suit",
+    "description": "Washable bird diaper and harness for taking your pet birds outdoors safely.",
+    "price": 650,
+    "category": "clothes",
+    "brand": "Petvante",
+    "species": "bird",
+    "suitable_breeds": [
+      "Cockatiel",
+      "Parrots"
+    ],
+    "image": "C:/P_images/16.jpg",
+    "rating": 3.9,
+    "review_count": 140,
+    "stock": 30,
+    "tags": [
+      "diaper",
+      "harness",
+      "travel"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Flight-Professional-Comfortable-Cockatiel-Blossoms/dp/B09NVL62DH"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Feliway Optimum Diffuser",
+    "description": "Clinically proven cat pheromone diffuser to reduce stress and scratching behavior.",
+    "price": 3200,
+    "category": "medicine",
+    "brand": "Feliway",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/17.jpg",
+    "rating": 4.6,
+    "review_count": 2200,
+    "stock": 40,
+    "tags": [
+      "stress-relief",
+      "calming",
+      "behavior"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/FELIWAY-Optimum-Enhanced-Pheromone-Diffuser/dp/B097W651NJ"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Zoo Med Repti Turtle Eye Drops",
+    "description": "Cleanse inflamed turtle eyes and provide Vitamin A to prevent swelling.",
+    "price": 699,
+    "category": "medicine",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Turtles",
+      "Tortoises"
+    ],
+    "image": "C:/P_images/18.jpg",
+    "rating": 4.5,
+    "review_count": 310,
+    "stock": 55,
+    "tags": [
+      "eye-care",
+      "vitamin-a",
+      "health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptile-Turtle-Drops/dp/B0002DJ0AQ"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Dog Cotton Tuxedo",
+    "description": "Formal pet outfit for weddings and parties. Breathable cotton with a cute bow tie.",
+    "price": 1499,
+    "category": "clothes",
+    "brand": "Choostix",
+    "species": "dog",
+    "suitable_breeds": [
+      "Pug",
+      "Beagle",
+      "Shih Tzu"
+    ],
+    "image": "C:/P_images/19.jpg",
+    "rating": 4.3,
+    "review_count": 210,
+    "stock": 15,
+    "tags": [
+      "wedding",
+      "fashion",
+      "formal"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/tux-for-dogs/s?k=tux+for+dogs",
+      "flipkart": "https://www.flipkart.com/baeship-tuxedo-dog/p/itm5ff47076c3ced?pid=PEAH8YFAQJHZV7KY&lid=LSTPEAH8YFAQJHZV7KYNHUR8C&marketplace=FLIPKART&cmpid=content_pet-apparel_23283927061_g_8965229628_gmc_pla&tgi=sem,1,G,11214002,g,search,,784823595533,,,,c,,,,,,,&entryMethod=23283927061&&cmpid=content_23283927061_gmc_pla&gad_source=1&gad_campaignid=23283927061&gbraid=0AAAAADxRY5-lfbran72sJs59BmKi87ODJ&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopOjqQLALn6NSgYGXe5vE8YUR_5_sf_OJpXNmH2_bK9zR_GDRc0mVOEaApH1EALw_wcB"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Trixie Cat Corner Brush",
+    "description": "Self-grooming wall-mounted brush that massages and removes loose cat hair.",
+    "price": 450,
+    "category": "grooming",
+    "brand": "Trixie",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/20.jpg",
+    "rating": 4.2,
+    "review_count": 940,
+    "stock": 110,
+    "tags": [
+      "massage",
+      "self-grooming",
+      "shedding"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Trixie-Grooming-Scratching-Self-Massage-Kittens/dp/B0C55J5FZP",
+      "flipkart": "https://www.flipkart.com/paws-samrat-rectangle-sleeker-thin-pin-comb-brush-grey-slicker-brushes-dog-cat-rabbit/p/itm051d955078fd3?pid=PCBGVHQ3UGHX9ZUX&lid=LSTPCBGVHQ3UGHX9ZUXDCOSQZ&marketplace=FLIPKART&store=p3t%2Fixl%2F770&srno=b_1_1&otracker=browse&fm=organic&iid=en_VJR6DnGs6hRPQCoghWFJXoEDbgtM8y_rfan3H-Yqi7-RjMkqySesqyy8wtmOPhytfBqck3qADfuoHl4uK5lMmg%3D%3D&ppt=browse&ppn=browse&ssid=r2losyhuyo0000001769597273810"
+    }
+  },
+  {
+    "id": 21,
+    "name": "PetCare Notix Anti-Tick Powder",
+    "description": "Effective powder for the prevention and treatment of ticks, fleas, and lice in dogs and cats.",
+    "price": 150,
+    "category": "medicine",
+    "brand": "PetCare",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/21.jpg",
+    "rating": 4.4,
+    "review_count": 4500,
+    "stock": 350,
+    "tags": [
+      "ticks",
+      "fleas",
+      "powder"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Erina-Ep-Powder-150g/dp/B006G87J5O/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.RCUN4d9JAfhWlK-txrzAssJ5CF15hwE7O7Fgedgn1gyZQon9Bjy6-CdmE59YhOqOGYjnpqoiFpAHfgLdSugVvKOL4g3Z31QU-l1-Y1SMDPhvshe-9O9qZUNTkEn09zp-dBzLQwyjvh6gOthCw5Z555x7PfQiXr1EtcGq1BxPl6yCZNEZmdftqvn-MT5T5TNZzniCIyhWq2gaTzDkxa5dBKhg93AUXbfNhgASZ5Gj83wRSCjZTBLjhBZ9wy_13ouLvySWC00gVHpeo-72Gs3Xhf4TVm4tq1rgoC12OpMOuoc.Qq1F2krudILjSVfFcSCGoMUqHyfKS3rijhAGkvyt5g0&dib_tag=se&keywords=notix+anti+tick+powder+for+dogs&nsdOptOutParam=true&qid=1769597375&sr=8-1-spons&aref=BOqJM3ATDr&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+      "flipkart": "https://www.flipkart.com/pet-care-notix-powder-100-ml-coat-cleanser/p/itmfc715ca003882"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Adidog Sporty Dog Hoodie",
+    "description": "Cool cotton hoodie for active dogs. Great for winter walks and style.",
+    "price": 599,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "dog",
+    "suitable_breeds": [
+      "Indies",
+      "Frenchie",
+      "Beagle"
+    ],
+    "image": "C:/P_images/22.jpg",
+    "rating": 4.0,
+    "review_count": 1320,
+    "stock": 60,
+    "tags": [
+      "winter",
+      "sports",
+      "affordable"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Hoodies-for-Dogs/b?ie=UTF8&node=4771560031",
+      "flipkart": "https://www.flipkart.com/ruse-tank-t-shirt-dog/p/itmffvrcxhyrau56"
+    }
+  },
+  {
+    "id": 23,
+    "name": "TETRA ReptoMin Floating Sticks",
+    "description": "Highly nutritious food for aquatic turtles, newts, and frogs. Rich in calcium and protein.",
+    "price": 450,
+    "category": "food",
+    "brand": "Tetra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Red Eared Slider",
+      "Turtle"
+    ],
+    "image": "C:/P_images/23.jpg",
+    "rating": 4.8,
+    "review_count": 980,
+    "stock": 210,
+    "tags": [
+      "aquatic",
+      "growth",
+      "high-protein"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/ReptoMin-Floating-Sticks-Aquatic-Turtles/dp/B00RGHGSK6",
+      "flipkart": "https://www.flipkart.com/tetra-reptomin-floating-food-sticks-aquatic-turtles-newts-frogs-whole-300-g/p/itm38ca978d8a4f7"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Bird Swing with Bells",
+    "description": "Colorful wooden swing toy for parakeets and small birds to play and de-stress.",
+    "price": 299,
+    "category": "grooming",
+    "brand": "PetSitter",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Finches"
+    ],
+    "image": "C:/P_images/24.jpg",
+    "rating": 4.1,
+    "review_count": 520,
+    "stock": 95,
+    "tags": [
+      "play",
+      "wood",
+      "climbing"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Colorful-Cockatoo-Parakeet-Cockatiel-Lovebirds/dp/B085GMJHK1/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.KMe7UjX3zg9JafiBiiaOUKo5WaJm1bNcVXTHnSDu1IYI_OzryIeAZeS-Xm3F22uszP9T5DpYFzPc8oLMPR5ueohzN246G7-PHdF1EMI7M6Ex1_WjEhuMlFjXRM-KgtYM9V3XNsBayTU06u-aTCINkeX0qKbA984zm4P_3nqw2OR7HLtk8a2QCpWORMvRNjioVkzLgmvIoW__BFzd-yIfjjnZts5YtCyF09ibkNAS_gkB1qLqJzTY4OYC7rFF_Ksnk3uT7SYVmBOMsdDFrXFSohu6lBfyN7ahNNubSatgPTg.lL4Er9qzkwUG7BtJXcTVmXrZ6rQ_0nTZNt5Hs1S_8l4&dib_tag=se&keywords=birds+swing+hanging&qid=1769597670&sr=8-2-spons&aref=EflfztgMA0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Virbac Epi-Otic Ear Cleanser",
+    "description": "Non-irritating ear cleanser for dogs and cats with antimicrobial activity. Great for regular hygiene.",
+    "price": 650,
+    "category": "medicine",
+    "brand": "Virbac",
+    "species": "dog",
+    "suitable_breeds": [
+      "Cocker Spaniel",
+      "Poodle"
+    ],
+    "image": "C:/P_images/25.jpg",
+    "rating": 4.7,
+    "review_count": 1800,
+    "stock": 75,
+    "tags": [
+      "ear-care",
+      "hygiene",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Epiotic-Cleanser-Dogs-Cats-Pack/dp/B0DXVLPXD6",
+      "flipkart": "https://www.flipkart.com/virbac-epiotic-ear-cleanser-100-ml-pet/p/itm70bcc77ab7add"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Zoo Med Repti Sun 5.0 UVB Lamp",
+    "description": "Essential UVB lighting for tropical reptiles to prevent metabolic bone disease by aiding Vitamin D3 synthesis.",
+    "price": 2850,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Green Iguana",
+      "Day Gecko",
+      "Water Dragon"
+    ],
+    "image": "C:/P_images/26.jpg",
+    "rating": 4.9,
+    "review_count": 1240,
+    "stock": 35,
+    "tags": [
+      "lighting",
+      "uvb",
+      "health"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-ReptiSun-Bulb-Watts/dp/B07QYX2R5G"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Royal Canin Mother & Babycat",
+    "description": "Ultra-soft mousse for kittens in their first growth stage (1-4 months) and gestating queens.",
+    "price": 120,
+    "category": "food",
+    "brand": "Royal Canin",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/27.jpg",
+    "rating": 4.8,
+    "review_count": 3120,
+    "stock": 400,
+    "tags": [
+      "kitten",
+      "weaning",
+      "soft-food"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Provides-Complete-Supports-Development-Promotes/dp/B004Y1WNVK/ref=sr_1_2_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.Kp453FLJeS5IRXlkorzxS6Zj7FK0Hdn_HtSuiRyA93cqglUsSBdRcQuwdSIOLw9K5XpOB-Ho-QyWPHdPqbrW_hyYjR5vbXE78KSQkMd479Hdgrs6GUALfJh8kZIfYiN86T0skfMD35Vkc834tv9wSVCJzi9jjy8jPne1MqytXCY0xecwyIoRzV3Q8LHn1Mg3JFvWkX0B3KD-Hvn-EPjlRoWoexofZdL5n9g4s2Xnf3Q2OKJBLUis84O3AYCzdDGVPFaCZ6ZHs82N_WQ0yPNU--vSwEKtZ27Fig3j1ACRDPQ.Arp4ocI3v4T3_CynUUVdxzVbn96HoFHOxvkLin_0Gvs&dib_tag=se&keywords=royal+canin+mother+and+baby+cat+food&nsdOptOutParam=true&qid=1769598304&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-2",
+      "flipkart": "https://www.flipkart.com/royal-canin-mother-babycat-2-kg-dry-new-born-cat-food/p/itm73abcf59af2ae"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Boltz Anti-Tick Spray for Birds",
+    "description": "Natural spray to protect birds from lice and mites. Gentle on feathers and skin.",
+    "price": 325,
+    "category": "medicine",
+    "brand": "Boltz",
+    "species": "bird",
+    "suitable_breeds": [
+      "Parrot",
+      "Lovebirds",
+      "Pigeons"
+    ],
+    "image": "C:/P_images/28.jpg",
+    "rating": 4.3,
+    "review_count": 450,
+    "stock": 180,
+    "tags": [
+      "anti-parasite",
+      "spray",
+      "bird-care"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Boltz-Antibacterial-Litter-Spray-Budgies/dp/B0968QM4JB"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Dog Raincoat with Reflective Strips",
+    "description": "Waterproof yellow raincoat with a hood and high-visibility strips for safe night walks.",
+    "price": 799,
+    "category": "clothes",
+    "brand": "PetVogue",
+    "species": "dog",
+    "suitable_breeds": [
+      "Labrador",
+      "GSD",
+      "Indies"
+    ],
+    "image": "C:/P_images/29.jpg",
+    "rating": 4.5,
+    "review_count": 890,
+    "stock": 40,
+    "tags": [
+      "monsoon",
+      "waterproof",
+      "safety"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/raincoat-for-pet-dog/s?k=raincoat+for+pet+dog",
+      "flipkart": "https://www.flipkart.com/pets-planet-raincoat-dog-cat/p/itm52dfef79a07f6"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Vetoquinol Samylin Liver Supplement",
+    "description": "Advanced liver support for dogs and cats. Contains antioxidants for hepatic health.",
+    "price": 2400,
+    "category": "medicine",
+    "brand": "Vetoquinol",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/30.jpg",
+    "rating": 4.7,
+    "review_count": 215,
+    "stock": 20,
+    "tags": [
+      "liver-support",
+      "premium",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Vetoquinol-ARBCE-MULTIVITAMIN-Supplement-200ML/dp/B07QQBWGRP/ref=sr_1_5?dib=eyJ2IjoiMSJ9.Zp-FuzR2NeWeKPqwVuBEfQuNf7OA3nBa2PEUDE9kOJlOZa6d1I47wXClx3H1A3eLX4cdc6yHZ7cGADRwd3K0ooXBRzbPGgWKyVnswyQ1Us-rfAKs8tKeNDNxVIfDgj7qieN0Lw19Kt8qPQY8hSD3MzAkGCX9EeTI5k5fDob8Wr5F4Dyx8gV8CKpSfJuW0EXn0RT4mzPOXzMg1WwlQk7NYo3ATJiDmGuC55G4GQEC_EU.BMeTJeX0gU9uArp9UD8A_X0lP5nTWn0lTfkWHQ1mmoY&dib_tag=se&qid=1769598543&refinements=p_89%3AVetoquinol&s=pet-supplies&sr=1-5"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Trixie Reptile Cave",
+    "description": "Natural-looking hiding spot for reptiles. Provides a safe and dark retreat to reduce stress.",
+    "price": 950,
+    "category": "grooming",
+    "brand": "Trixie",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Snakes",
+      "Lizards",
+      "Spiders"
+    ],
+    "image": "C:/P_images/31.jpg",
+    "rating": 4.6,
+    "review_count": 310,
+    "stock": 60,
+    "tags": [
+      "hiding",
+      "decor",
+      "stress-relief"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/gp/bestsellers/pet-supplies/4771676031"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Beaphar Multi-Vitamin for Birds",
+    "description": "Liquid vitamins to be mixed with water. Promotes better plumage and overall vitality.",
+    "price": 490,
+    "category": "medicine",
+    "brand": "Beaphar",
+    "species": "bird",
+    "suitable_breeds": [
+      "Canary",
+      "Finch",
+      "Parakeet"
+    ],
+    "image": "C:/P_images/32.jpg",
+    "rating": 4.4,
+    "review_count": 670,
+    "stock": 100,
+    "tags": [
+      "vitamins",
+      "plumage",
+      "liquid-supplement"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.sa/-/en/Beaphar-Multi-Vitamin-Bird-20ml/dp/B08FFG6M4J"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Cat Self-Grooming Wall Brush",
+    "description": "Plastic brush base with soft bristles. Cats can rub against it to groom themselves.",
+    "price": 299,
+    "category": "grooming",
+    "brand": "Petest",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/33.jpg",
+    "rating": 4.1,
+    "review_count": 1540,
+    "stock": 200,
+    "tags": [
+      "self-grooming",
+      "catnip-compatible",
+      "shedding"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/cat-self-groomer/s?k=cat+self+groomer",
+      "flipkart": "https://www.flipkart.com/picckola-international-cat-self-groomer-wall-corner-massage-combs-short-long-fur-cats-pack-one-plain-bristle-brushes/p/itm81d4105a94805"
+    }
+  },
+  {
+    "id": 34,
+    "name": "PetSafe Soft Dog Boots",
+    "description": "Protective boots for dogs to wear on hot pavements or during snowy winters.",
+    "price": 1250,
+    "category": "clothes",
+    "brand": "PetSafe",
+    "species": "dog",
+    "suitable_breeds": [
+      "Shih Tzu",
+      "Poodle",
+      "Beagle"
+    ],
+    "image": "C:/P_images/34.jpg",
+    "rating": 3.8,
+    "review_count": 420,
+    "stock": 25,
+    "tags": [
+      "footwear",
+      "protection",
+      "outdoor"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/pet-boots/s?k=pet+boots"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Exo Terra Electrolyte & Vitamin D3",
+    "description": "Rehydration liquid for reptiles to help with shedding and stress during transport.",
+    "price": 850,
+    "category": "medicine",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Lizards",
+      "Tortoises"
+    ],
+    "image": "C:/P_images/35.jpg",
+    "rating": 4.7,
+    "review_count": 180,
+    "stock": 40,
+    "tags": [
+      "hydration",
+      "recharge",
+      "shedding-help"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/Exo-Terra-Electrolyte-Vitamin-Supplement/dp/B00H99GXGU"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Wild Harvest Molting Supplement",
+    "description": "Provides essential nutrients during the bird's molting season to ensure bright, healthy feathers.",
+    "price": 550,
+    "category": "medicine",
+    "brand": "Wild Harvest",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/36.jpg",
+    "rating": 4.5,
+    "review_count": 290,
+    "stock": 70,
+    "tags": [
+      "molting",
+      "feathers",
+      "nutrition"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.com/Wild-Harvest-Healthy-Benefits-Supplement/dp/B0D81DBQXT/ref=sr_1_5?dib=eyJ2IjoiMSJ9.d5UrVBu4m0KyVUJqOhI7ZUtEbHB9kYEAIdzVks54NKReITVJNSKJSs779ftUzkmcNZ6_DyJuuwF1a7LWY4nidpzdNKvJtXjSmheenCDL8vlPUKxEXv73i0Wm9t4LhdvRoIirpIvR_ZicD96q2ljQ2ANA0a2nMNSvK727ZQwymUCGmO8zo0eJ84_Md7OPKX0bvikaGIMEZEe_7pHe5Qcbia_k2atD_ZTA3yMPL-UfjvFi2CkgD9gbY3-P6F2K_gWEvU9NqVCHW973LxvJBPErJrj98PT2gylP5lZstzVQUD0.x56U8CI28v0tMt2m5KOiVETsh8f0XxrEvHaXqkW7wmU&dib_tag=se&keywords=wild+harvest+bird+food&qid=1769598804&sr=8-5"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Whiskas Dentabites Cat Treats",
+    "description": "Tasty cat treats with a special texture to reduce dental tartar and keep breath fresh.",
+    "price": 199,
+    "category": "food",
+    "brand": "Whiskas",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/37.jpg",
+    "rating": 4.6,
+    "review_count": 5200,
+    "stock": 500,
+    "tags": [
+      "dental-health",
+      "treats",
+      "salmon"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "http://amazon.co.uk/Whiskas-Dentabites-Treats-Chicken-Pack/dp/B00M1RHL6Q?th=1",
+      "zepto": "https://www.flipkart.com/whiskas-1-years-tuna-3-kg-dry-adult-cat-food/p/itm7a87ad6bba169?pid=PFDE6QF9RFRGX6F4&lid=LSTPFDE6QF9RFRGX6F4SA0ZRP&marketplace=FLIPKART&q=whiskas+cat+treats+chicken&store=p3t%2F0mo%2Foiv&srno=s_1_2&otracker=AS_Query_OnlineSuffix_2_18_na_na_na&otracker1=AS_Query_OnlineSuffix_2_18_na_na_na&fm=organic&iid=en_V9akUMzxlrL9fB2-qzZS1NIrAn0m0d-Rv9xwVsch3XajO8eG2jHKEDT106rXZvQLEjdbXEHCrm7XpZ0oaAPxsPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=browse&ppn=browse&ssid=kmnnt4gnj40000001769598917668&qH=c4b5c1cf0d4f392e"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Savavet Carodyl 100mg",
+    "description": "Non-steroidal anti-inflammatory drug (NSAID) for dogs to manage joint pain and post-surgery inflammation.",
+    "price": 450,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/38.jpg",
+    "rating": 4.8,
+    "review_count": 890,
+    "stock": 100,
+    "tags": [
+      "pain-killer",
+      "joints",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "supertails": "https://supertails.com/products/savavet-carodyl-dog-100mg-tablet?srsltid=AfmBOookvw680y9p2AoS_BFSzfwZu9BUTJK2emjKSAdMBS1erZFY6OU9"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Reptile Humidifier Fogger",
+    "description": "Ultrasonic fogger to maintain humidity levels in terrariums. Essential for tropical species.",
+    "price": 3500,
+    "category": "grooming",
+    "brand": "BETAZOOER",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Chameleons",
+      "Frogs"
+    ],
+    "image": "C:/P_images/39.jpg",
+    "rating": 4.3,
+    "review_count": 150,
+    "stock": 12,
+    "tags": [
+      "humidity",
+      "fogger",
+      "automation"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/BETAZOOER-Humidifier-Extension-Amphibians-Terrarium/dp/B07YYYMRSV?th=1"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Cuttlefish Bone for Birds",
+    "description": "Natural source of calcium for birds. Also helps in beak trimming and conditioning.",
+    "price": 150,
+    "category": "food",
+    "brand": "Generic",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Cockatiels",
+      "Parrots"
+    ],
+    "image": "C:/P_images/40.jpg",
+    "rating": 4.2,
+    "review_count": 2100,
+    "stock": 600,
+    "tags": [
+      "calcium",
+      "beak-health",
+      "natural"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/HORMIS-Cuttlefish-Bone-Birds-Natural/dp/B0G5Z455TV/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.eKt8XS3SElje7YNHK9kWo8oJjjLqkMjtE3Zixn6mllHvZBjMlkumHRdHWzeVc92cmJY-v3FZLPFneg_UgERpy4tebOOA2uu-gQYhE2AxhM8iQiShXrooe9qah_TiKydEOnhDa5qYdXL_x8ojy3pkV8UY3vQeFmlmnmWEjMrh7AUqBh0zDgk3B9Al5wRjGuFVllgrByO4UwpSNH9NYwuXIZGMns7uYhJ6HCOug_zUwqwmLSN9m9d3Hx4aDcP0ClW95rhwrOecKB8Gzqyk9XZclVXgraqRZPyIvMUR3ijMN4g.qN-VZjIq7MltJIW3zE8cYIB-uLMOSUbuwBi9xEuoCbI&dib_tag=se&keywords=cuttlefish%2Bbone&qid=1769599067&sr=8-1-spons&aref=gMmbSt4lpH&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+      "flipkart": "https://www.flipkart.com/search?q=cuttlefish+bone"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Cat Halloween Bat Wings",
+    "description": "Lightweight and felt-based bat wing costume for cats and small dogs. Comfortable and adjustable.",
+    "price": 450,
+    "category": "clothes",
+    "brand": "PetTheme",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/41.jpg",
+    "rating": 4.7,
+    "review_count": 320,
+    "stock": 50,
+    "tags": [
+      "costume",
+      "halloween",
+      "fun"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Pet-Cat-Halloween-Decoration-Accessories/dp/B07GFND8ZC"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Nootie Waterless Shampoo Spray",
+    "description": "No-rinse shampoo for quick cleaning. Leaves the coat smelling like Sweet Pea & Vanilla.",
+    "price": 650,
+    "category": "grooming",
+    "brand": "Nootie",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/42.jpg",
+    "rating": 4.4,
+    "review_count": 1100,
+    "stock": 90,
+    "tags": [
+      "waterless",
+      "hygiene",
+      "scented"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "flipkart": "https://www.flipkart.com/nootie-anti-fungal-na-dog-shampoo/p/itm93014c498babb"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Zoo Med Repti Sand",
+    "description": "Natural desert sand for terrariums. Conducts heat well and provides a natural environment.",
+    "price": 1400,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Sand Boa"
+    ],
+    "image": "C:/P_images/43.jpg",
+    "rating": 4.5,
+    "review_count": 280,
+    "stock": 55,
+    "tags": [
+      "substrate",
+      "desert",
+      "habitat"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-ReptiSand%C2%AE-Pounds-Desert/dp/B0002DIZKC"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Himalaya Furlows Cat Conditioner",
+    "description": "Ayurvedic cream conditioner for cats to detangle hair and reduce mats.",
+    "price": 250,
+    "category": "grooming",
+    "brand": "Himalaya",
+    "species": "cat",
+    "suitable_breeds": [
+      "Persian",
+      "Maine Coon"
+    ],
+    "image": "C:/P_images/44.jpg",
+    "rating": 4.3,
+    "review_count": 560,
+    "stock": 140,
+    "tags": [
+      "detangler",
+      "ayurvedic",
+      "matted-hair"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Furglow-Oral-Coat-Conditioner/dp/B071KYW6W5"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Vitapol Mineral Stone for Birds",
+    "description": "Essential mineral block for birds to gnaw on, ensuring healthy beak and mineral intake.",
+    "price": 180,
+    "category": "medicine",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/45.jpg",
+    "rating": 4.5,
+    "review_count": 890,
+    "stock": 300,
+    "tags": [
+      "minerals",
+      "health",
+      "beak-care"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Vitapol-Mineral-Block-Birds-Shells/dp/B06WW25LYN"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Dog Paw Plunger Cleaner",
+    "description": "Portable device to wash muddy paws before the dog enters the house.",
+    "price": 599,
+    "category": "grooming",
+    "brand": "Dexas",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/46.jpg",
+    "rating": 4.4,
+    "review_count": 12500,
+    "stock": 70,
+    "tags": [
+      "cleaning",
+      "outdoor",
+      "convenient"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Pet-Product-Innovations-Plunger-Medium/dp/B000FVXSL2",
+      "flipkart": "https://www.flipkart.com/sage-square-portable-dog-paw-washer-cum-foot-cleaner-soft-silicone-plunger-scrub-wash-away-dirt-mud-debris-puppies-cats-kitten-green-grooming-gloves/p/itm9fa9c1c6ccd60"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Exo Terra Thermometer/Hygrometer",
+    "description": "Digital combometer to monitor temperature and humidity levels in reptile enclosures.",
+    "price": 1100,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/47.jpg",
+    "rating": 4.6,
+    "review_count": 410,
+    "stock": 30,
+    "tags": [
+      "monitoring",
+      "digital",
+      "safety"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Digital-Hygrometer-Probe/dp/B00101KWYW"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Bird Nesting Box",
+    "description": "Wooden breeding box for parakeets and small birds to lay eggs and feel safe.",
+    "price": 550,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Lovebirds"
+    ],
+    "image": "C:/P_images/48.jpg",
+    "rating": 4.0,
+    "review_count": 150,
+    "stock": 45,
+    "tags": [
+      "breeding",
+      "wooden",
+      "habitat"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Handwoven-Coir-Bird-Nest-Birdhouse/dp/B0D9BY553P/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.7tskwE8xhMW-z_Lv6vqRCophRjSNuaQo-6HWyuz2boyDULDk7dTljJp0ZIUnJVJvh4OWUhyvilbKddQ3CIPArTSg5jjFkGwJqaThIePbscvk6Gv6TBIEyGauJgxGMwa48VnBdfEJPwZ0G3RA54EToZKkiHMheaeszPkAchAE236X1aK4IYl9Ad5BEx3CQnL8OIEAmOjjiz7FzqlenTDKSMLvid2uVWvOZeGBjLjcsOqwBuUvkIVzQk3m5E1P2cWxPFaW4_ltVTZK1F4xqoashlDEdXvb4Wh3gGULe436HF8.ZfQL5AnO78xo4aXn7UQo1jGDNsvFwbyoY-QHc9iu-CQ&dib_tag=se&keywords=nesting%2Bboxes&qid=1769599460&sr=8-2-spons&aref=JwUVkSDHs2&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Mera Dog Biscuits",
+    "description": "High-quality baked treats from Germany. Great for training and rewarding.",
+    "price": 650,
+    "category": "food",
+    "brand": "Mera Dog",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/49.jpg",
+    "rating": 4.7,
+    "review_count": 2100,
+    "stock": 180,
+    "tags": [
+      "treats",
+      "baked",
+      "training"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Mera-Food-Pure-Sensitive-Puppy/dp/B09ZBL2SK2"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Zodiac Flea & Tick Cat Collar",
+    "description": "Continuous protection collar that kills fleas and ticks for up to 7 months.",
+    "price": 899,
+    "category": "medicine",
+    "brand": "Zodiac",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/50.jpg",
+    "rating": 4.2,
+    "review_count": 340,
+    "stock": 85,
+    "tags": [
+      "anti-tick",
+      "collar",
+      "long-lasting"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zodiac-Breakaway-Flea-Tick-Collar/dp/B0123H9BAW"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Zoo Med ReptiVite with D3",
+    "description": "A complete amino acid, vitamin, and mineral complex for reptiles. Essential for bone growth and metabolic health.",
+    "price": 1450,
+    "category": "medicine",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Iguana",
+      "Chameleon"
+    ],
+    "image": "C:/P_images/51.jpg",
+    "rating": 4.9,
+    "review_count": 860,
+    "stock": 45,
+    "tags": [
+      "vitamins",
+      "d3",
+      "reptile-health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptivite-Reptile-Vitamins/dp/B07SNWC6CP"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Kaytee Exact Hand Feeding Formula",
+    "description": "High-nutrient food for baby birds. Aids in faster weaning and better plumage development.",
+    "price": 2200,
+    "category": "food",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Macaw",
+      "African Grey",
+      "Cockatoo"
+    ],
+    "image": "C:/P_images/52.jpg",
+    "rating": 4.8,
+    "review_count": 1420,
+    "stock": 30,
+    "tags": [
+      "hand-feeding",
+      "baby-bird",
+      "high-protein"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Kaytee-Exact-Feeding-Formula-2-27kg/dp/B000N3O4OC"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Dog Puffer Vest - Winter Red",
+    "description": "Quilted warm winter vest with a zipper back for easy wear. Windproof and cozy for small breeds.",
+    "price": 1100,
+    "category": "clothes",
+    "brand": "PetLife",
+    "species": "dog",
+    "suitable_breeds": [
+      "Chihuahua",
+      "Pomeranian",
+      "Maltese"
+    ],
+    "image": "C:/P_images/53.jpg",
+    "rating": 4.6,
+    "review_count": 310,
+    "stock": 15,
+    "tags": [
+      "winter",
+      "puffer-jacket",
+      "small-breed"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/puffer-jacket-for-dogs/s?k=puffer+jacket+for+dogs"
+    }
+  },
+  {
+    "id": 54,
+    "name": "TropiClean Fresh Breath Gel for Cats",
+    "description": "No-brushing oral care gel that removes plaque and tartar. Promotes fresh breath and healthy gums.",
+    "price": 850,
+    "category": "grooming",
+    "brand": "TropiClean",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/54.jpg",
+    "rating": 4.5,
+    "review_count": 2100,
+    "stock": 65,
+    "tags": [
+      "dental",
+      "oral-care",
+      "fresh-breath"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Tropiclean-Fresh-Breath-Plaque-Remover/dp/B00379KT66"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Frontline Plus Flea & Tick Treatment",
+    "description": "Fast-acting, long-lasting topical treatment for fleas and ticks. Waterproof and safe for dogs.",
+    "price": 2400,
+    "category": "medicine",
+    "brand": "Frontline",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/55.jpg",
+    "rating": 4.7,
+    "review_count": 15600,
+    "stock": 100,
+    "tags": [
+      "anti-parasite",
+      "topical",
+      "vet-recommended"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Frontline-Plus-45-88-Month-Supply/dp/B0002J1FOE",
+      "flipkart": "https://www.flipkart.com/frontline-plus-flea-tick-treatment-small-dogs-upto-5-22-lbs-3-treatments/p/itmd3f5881458e61"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Zoo Med Turtle Tuff Halogen Heat Lamp",
+    "description": "Heavy-duty splash-proof halogen lamp for aquatic turtles. Provides necessary heat and light.",
+    "price": 1950,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Red Eared Slider",
+      "Snapping Turtle"
+    ],
+    "image": "C:/P_images/56.jpg",
+    "rating": 4.4,
+    "review_count": 520,
+    "stock": 25,
+    "tags": [
+      "heating",
+      "splash-proof",
+      "aquatic"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Repti-Splashproof-Halogen/dp/B01BI97LYO"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Quiko Classic Egg Food for Birds",
+    "description": "Complementary food for all pet birds. Ideal during breeding and molting for extra protein.",
+    "price": 999,
+    "category": "food",
+    "brand": "Quiko",
+    "species": "bird",
+    "suitable_breeds": [
+      "Canary",
+      "Finch",
+      "Budgies"
+    ],
+    "image": "C:/P_images/57.jpg",
+    "rating": 4.6,
+    "review_count": 340,
+    "stock": 110,
+    "tags": [
+      "protein",
+      "breeding",
+      "egg-food"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/Quiko-Classic-Egg-Bird-Food/dp/B007V4SBOU?th=1"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Fidèle Canine Grass Fed Lamb & Rice",
+    "description": "Natural premium dry dog food. Grain-free and hypoallergenic for sensitive stomachs.",
+    "price": 3800,
+    "category": "food",
+    "brand": "Fidèle",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/59.jpg",
+    "rating": 4.3,
+    "review_count": 120,
+    "stock": 80,
+    "tags": [
+      "lamb",
+      "hypoallergenic",
+      "premium"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "amazon.in/Fidele-Food-Adult-Small-Medium/dp/B099S7JR1W/ref=sr_1_4?dib=eyJ2IjoiMSJ9.DTN1whJZfG9npLaIjtM8WtOpkM_q_Yx8cCV-z57H0UOgNtE6BAklIlZE9DmVWOuS4zyZT_PoVKSicQLMi09xQolElbL0jlPYc9d7pxzBsWw.5S-95nZTW4h4Wy4uhj_3jmOJNMYpbwQZfx6yG8ANEto&dib_tag=se&qid=1769599793&refinements=p_4%3AFidele&s=pet-supplies&sr=1-4"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Cat Window Perch / Bed",
+    "description": "Space-saving window-mounted cat bed. Holds up to 15kg for cats who love bird watching.",
+    "price": 1499,
+    "category": "grooming",
+    "brand": "KittySill",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/59.jpg",
+    "rating": 4.7,
+    "review_count": 8900,
+    "stock": 40,
+    "tags": [
+      "bedding",
+      "sunny-seat",
+      "window-perch"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/House-Corner-Sturdy-Cushion-Included/dp/B0F55XGM7G/ref=zg_bs_g_4771494031_d_sccl_1/521-7288698-8408254?psc=1"
+    }
+  },
+  {
+    "id": 60,
+    "name": "PetCare Worm Trap Tablets",
+    "description": "Effective deworming solution for cats to treat intestinal worms including tapeworms.",
+    "price": 250,
+    "category": "medicine",
+    "brand": "PetCare",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/60.jpg",
+    "rating": 4.4,
+    "review_count": 210,
+    "stock": 300,
+    "tags": [
+      "dewormer",
+      "healthcare",
+      "cats"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Medfly-Healthcare-Defender-Natural-Dewormer/dp/B0BQFG1WQ5/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.h6uiMcbo1ylLltX8_vojP1chTYID4UP91pM04iaDDj4VBdXvacNOy1oZgimQsTWYe6aon5IxTL4yCddzt4Y6oERv0V2ICJlIsZpBvViLKh42L7scQwuFUBs2Hh2HUiZP2gauyCQ485SzJfKec-FnYIZYjYXQThqpIz4Is6qC8nciSv3zs0BxrslsLJ4mJ5suc4j87p37_t3ZouH741hssICk29syfsl9fq-2ArPCOn67SvL16ngq7FFQXQovYbU-D-G8MuobAUcMvODv84GrITHKCnXZ9O7b0AOucsHh4gI.paT8Ygrn4b8V9M4gp1T0LNT8Cd3VPoidHwQZ4i_uEo4&dib_tag=se&keywords=pet+care+worm+trap&nsdOptOutParam=true&qid=1769599867&sr=8-3-spons&aref=GY56yP36Kd&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Mites & Lice Spray for Reptiles",
+    "description": "Safe and effective spray to eliminate mites and lice from reptile bodies and terrariums.",
+    "price": 950,
+    "category": "medicine",
+    "brand": "Natural Chemistry",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Pythons",
+      "Lizards"
+    ],
+    "image": "C:/P_images/61.jpg",
+    "rating": 4.2,
+    "review_count": 145,
+    "stock": 20,
+    "tags": [
+      "anti-mite",
+      "spray",
+      "cage-cleaner"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.com/mite-spray-reptiles/s?k=mite+spray+for+reptiles"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Himalaya HimPyrin Analgesic Syrup",
+    "description": "Natural pain reliever and fever reducer for dogs and cats. Effective against injury-related pain.",
+    "price": 140,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/62.jpg",
+    "rating": 4.6,
+    "review_count": 4300,
+    "stock": 500,
+    "tags": [
+      "fever-relief",
+      "herbal",
+      "pain-management"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Wellness-Company-HIM7703-Himpyrin/dp/B07L9P437V",
+      "flipkart": "https://www.flipkart.com/himalaya-herbals-himpyrin-vet-liquid-30-ml-anti-pyretic-inflammatory-pain-relief-drops-pet-health-supplements/p/itma5eb49dd2eae1"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Lion Mane Costume for Cats",
+    "description": "Hilarious lion mane wig for cats. Soft fabric with adjustable neck circumference.",
+    "price": 499,
+    "category": "clothes",
+    "brand": "PetShow",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/63.jpg",
+    "rating": 4.5,
+    "review_count": 1200,
+    "stock": 50,
+    "tags": [
+      "costume",
+      "lion",
+      "photography"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/PETLESO-Lion-Mane-Costume-Cats/dp/B07H3LVR75?th=1"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Exo Terra Dragon Grub",
+    "description": "Insect-based reptile food with black soldier fly larvae. Highly palatable and nutritious.",
+    "price": 1250,
+    "category": "food",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Monitor Lizard"
+    ],
+    "image": "C:/P_images/64.jpg",
+    "rating": 4.8,
+    "review_count": 210,
+    "stock": 55,
+    "tags": [
+      "insect-food",
+      "growth",
+      "high-protein"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.com/Exo-Terra-Dragon-Adult-4-4oz/dp/B075TCN29T"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Trixie Bird Bath for Cages",
+    "description": "Semi-transparent bird bath that attaches to cage doors. Keeps feathers clean and birds cool.",
+    "price": 350,
+    "category": "grooming",
+    "brand": "Trixie",
+    "species": "bird",
+    "suitable_breeds": [
+      "Canary",
+      "Parakeet"
+    ],
+    "image": "C:/P_images/65.jpg",
+    "rating": 4.1,
+    "review_count": 680,
+    "stock": 150,
+    "tags": [
+      "bathing",
+      "hygiene",
+      "cage-accessory"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/gp/bestsellers/pet-supplies/4771472031"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Wahl Pet Shampoo - Oatmeal & Lime",
+    "description": "Skin-soothing shampoo for dogs with dry or itchy skin. Formulated with natural ingredients.",
+    "price": 750,
+    "category": "grooming",
+    "brand": "Wahl",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/66.jpg",
+    "rating": 4.6,
+    "review_count": 5400,
+    "stock": 200,
+    "tags": [
+      "shampoo",
+      "dry-skin",
+      "natural"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Wahl-Oatmeal-Shampoo-Coconut-Verbena/dp/B005CUTWDE?th=1"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Beaphar Calming Spot On for Cats",
+    "description": "Valerian-based spot on to help cats feel calm during fireworks, thunderstorms, or vet visits.",
+    "price": 1200,
+    "category": "medicine",
+    "brand": "Beaphar",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/67.jpg",
+    "rating": 4.3,
+    "review_count": 87,
+    "stock": 25,
+    "tags": [
+      "calming",
+      "stress-relief",
+      "valerian"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Beaphar-Calming-Spot-On-for-Cats/dp/B00E5DK1O8"
+    }
+  },
+  {
+    "id": 68,
+    "name": "PetSafe Remote Spray Trainer",
+    "description": "Gentle training collar that uses a citronella spray to discourage nuisance barking.",
+    "price": 8500,
+    "category": "grooming",
+    "brand": "PetSafe",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/68.jpg",
+    "rating": 4.4,
+    "review_count": 310,
+    "stock": 10,
+    "tags": [
+      "training",
+      "anti-bark",
+      "tech"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/PetSafe-Remote-Spray-Trainer-Rechargeable/dp/B07JGBFCW9?th=1"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Kaytee Forti-Diet Pro Health Bird Food",
+    "description": "Nutritionally balanced seed mix with prebiotics and probiotics for better digestion.",
+    "price": 1250,
+    "category": "food",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Cockatiel",
+      "Quaker"
+    ],
+    "image": "C:/P_images/69.jpg",
+    "rating": 4.7,
+    "review_count": 1850,
+    "stock": 90,
+    "tags": [
+      "digestive-health",
+      "premium-seeds",
+      "probiotics"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bird-Food-Kaytee-Birds/s?rh=n%3A4771370031%2Cp_89%3AKaytee"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Zoo Med Repti Turtle Dock",
+    "description": "Floating basking platform for aquatic turtles. Automatically adjusts to water level.",
+    "price": 1850,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Turtle",
+      "Terrapin"
+    ],
+    "image": "C:/P_images/70.jpg",
+    "rating": 4.8,
+    "review_count": 15600,
+    "stock": 35,
+    "tags": [
+      "basking",
+      "platform",
+      "aquatic"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Floating-Turtle-Small/dp/B07SKY2T5X"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Dog Bandana - Birthday Boy",
+    "description": "Cute blue cotton bandana for dog birthday parties. Washable and lightweight.",
+    "price": 299,
+    "category": "clothes",
+    "brand": "Choostix",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/71.jpg",
+    "rating": 4.2,
+    "review_count": 560,
+    "stock": 100,
+    "tags": [
+      "birthday",
+      "party",
+      "accessory"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/birthday-bandana/s?k=birthday+bandana"
+    }
+  },
+  {
+    "id": 72,
+    "name": "SmartyKat Catnip Mist Spray",
+    "description": "Potent catnip spray for scratching posts and toys. Stimulates play and movement.",
+    "price": 550,
+    "category": "grooming",
+    "brand": "SmartyKat",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/72.jpg",
+    "rating": 4.0,
+    "review_count": 4200,
+    "stock": 120,
+    "tags": [
+      "catnip",
+      "spray",
+      "playtime"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/SmartyKat-CatnipMist-Catnip-Infused-7-Ounce/dp/B001B3XOW6"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Sera Reptil Herbivor Food",
+    "description": "Staple food for herbivorous reptiles like Tortoises and Iguanas. High in fiber.",
+    "price": 1100,
+    "category": "food",
+    "brand": "Sera",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Tortoise",
+      "Iguana"
+    ],
+    "image": "C:/P_images/73.jpg",
+    "rating": 4.5,
+    "review_count": 95,
+    "stock": 40,
+    "tags": [
+      "herbivore",
+      "fiber",
+      "pellets"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.ae/Sera-Professional-Herbivor-Herbivores-Reptiles/dp/B0046S94IQ"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Vitapol Fruit Food for Parrots",
+    "description": "Varied fruit and nut mix for larger birds. Enriched with vitamins and minerals.",
+    "price": 1450,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "African Grey",
+      "Amazon Parrot"
+    ],
+    "image": "C:/P_images/74.jpg",
+    "rating": 4.7,
+    "review_count": 310,
+    "stock": 60,
+    "tags": [
+      "fruits",
+      "nuts",
+      "parrots"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bird-Food-Vitapol-Birds/s?rh=n%3A4771370031%2Cp_89%3AVitapol"
+    }
+  },
+  {
+    "id": 75,
+    "name": "SAVAVET Kiwof Plus Dewormer",
+    "description": "Multi-spectrum dewormer for large dogs. Treats all types of intestinal parasites.",
+    "price": 550,
+    "category": "medicine",
+    "brand": "SAVAVET",
+    "species": "dog",
+    "suitable_breeds": [
+      "Labrador",
+      "GSD",
+      "Rottweiler"
+    ],
+    "image": "C:/P_images/75.jpg",
+    "rating": 4.8,
+    "review_count": 1400,
+    "stock": 200,
+    "tags": [
+      "dewormer",
+      "large-breed",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/kiwof/s?k=kiwof"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Zoo Med Repti Basking Spot Lamp",
+    "description": "Unique double reflector design focuses 35% more heat and light into a tight beam, perfect for desert reptiles.",
+    "price": 1250,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Monitor Lizard"
+    ],
+    "image": "C:/P_images/76.jpg",
+    "rating": 4.7,
+    "review_count": 8900,
+    "stock": 45,
+    "tags": [
+      "heating",
+      "basking",
+      "essential"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptile-Basking-Watts/dp/B0002DIWYQ"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Hartz UltraGuard Flea & Tick Collar",
+    "description": "Kills fleas and ticks on cats for 7 months. Includes a breakaway safety feature.",
+    "price": 699,
+    "category": "medicine",
+    "brand": "Hartz",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/77.jpg",
+    "rating": 4.1,
+    "review_count": 12000,
+    "stock": 150,
+    "tags": [
+      "prevention",
+      "long-lasting",
+      "safety"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Hartz-UltraGuard-Flea-Collar-Puppies/dp/B0009F3MLU"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Manna Pro Hydro-Hen",
+    "description": "3-in-1 hydration supplement for birds. Contains probiotics, electrolytes, and acidifiers.",
+    "price": 1400,
+    "category": "medicine",
+    "brand": "Manna Pro",
+    "species": "bird",
+    "suitable_breeds": [
+      "Chickens",
+      "Ducks",
+      "Pigeons"
+    ],
+    "image": "C:/P_images/78.jpg",
+    "rating": 4.8,
+    "review_count": 3400,
+    "stock": 60,
+    "tags": [
+      "hydration",
+      "probiotics",
+      "poultry-care"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.sg/Manna-Pro-Supplement-Probiotics-Electrolytes/dp/B08V8Q6KV8"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Dog Cooling Vest - Summer Blue",
+    "description": "Evaporative cooling vest. Soak in water and wring out to keep dogs cool in high temperatures.",
+    "price": 1850,
+    "category": "clothes",
+    "brand": "Ruffwear",
+    "species": "dog",
+    "suitable_breeds": [
+      "Labrador",
+      "GSD",
+      "Husky"
+    ],
+    "image": "C:/P_images/79.jpg",
+    "rating": 4.6,
+    "review_count": 920,
+    "stock": 25,
+    "tags": [
+      "summer-wear",
+      "cooling-tech",
+      "outdoor"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/oUUoNNo-Cooling-Jacket-Breathable-Adjustable/dp/B0B6FL1YRS"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Sera Reptil Professional Carnivor",
+    "description": "Co-extruded floating food for carnivorous reptiles like water turtles. Contains loop and core nutrients.",
+    "price": 950,
+    "category": "food",
+    "brand": "Sera",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Aquatic Turtles",
+      "Terrapins"
+    ],
+    "image": "C:/P_images/80.jpg",
+    "rating": 4.5,
+    "review_count": 310,
+    "stock": 80,
+    "tags": [
+      "carnivore",
+      "professional",
+      "pellets"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Sera-Prof-Carnivor-Reptile-Food/dp/B0052MEXAE"
+    }
+  },
+  {
+    "id": 81,
+    "name": "TropiClean Papaya & Coconut Shampoo",
+    "description": "Luxury 2-in-1 shampoo and conditioner that cleanses and moisturizes for a shiny coat.",
+    "price": 999,
+    "category": "grooming",
+    "brand": "TropiClean",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/81.jpg",
+    "rating": 4.7,
+    "review_count": 14000,
+    "stock": 210,
+    "tags": [
+      "smells-great",
+      "moisturizing",
+      "2-in-1"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/TropiClean-Luxury-Coconut-Shampoo-Conditioner/dp/B002GPD8BUC"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Zilla Calcium Supplement Food Spray",
+    "description": "Easy-to-use spray that coats reptile food with essential calcium and vitamin D3.",
+    "price": 650,
+    "category": "medicine",
+    "brand": "Zilla",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all lizards"
+    ],
+    "image": "C:/P_images/82.jpg",
+    "rating": 4.4,
+    "review_count": 520,
+    "stock": 55,
+    "tags": [
+      "calcium",
+      "spray",
+      "vitamin-d3"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/Zilla-Reptile-Supplies-Calcium-Supplement/dp/B004LO7MNOE"
+    }
+  },
+  {
+    "id": 83,
+    "name": "PetSafe Drinkwell Cat Fountain",
+    "description": "Encourages cats to stay hydrated with a free-falling stream of fresh, filtered water.",
+    "price": 3500,
+    "category": "grooming",
+    "brand": "PetSafe",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/83.jpg",
+    "rating": 4.6,
+    "review_count": 25000,
+    "stock": 18,
+    "tags": [
+      "hydration",
+      "filters",
+      "tech"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Drinkwell-Rectangle-Multi-Level-Fountain-Drinking/dp/B0056ASTES"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Kaytee Avian Bird Harness",
+    "description": "A safe way to take your bird outside. Lightweight nylon with long leash included.",
+    "price": 1200,
+    "category": "clothes",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Macaws",
+      "African Grey"
+    ],
+    "image": "C:/P_images/84.jpg",
+    "rating": 3.9,
+    "review_count": 860,
+    "stock": 12,
+    "tags": [
+      "outdoor",
+      "harness",
+      "safety"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Kaytee-Comfort-Harness-Stretchy-Medium/dp/B0002ASBSG?th=1"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Candioli Renal P Dog/Cat Powder",
+    "description": "Nutritional supplement specifically designed for chronic renal insufficiency in dogs and cats.",
+    "price": 1650,
+    "category": "medicine",
+    "brand": "Candioli",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/85.jpg",
+    "rating": 4.8,
+    "review_count": 140,
+    "stock": 35,
+    "tags": [
+      "kidney-health",
+      "renal",
+      "supplement"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/Renal-Complementary-Foods-Supplement-Usage/dp/B01M67R352"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Zoo Med Repti Therm Under Tank Heater",
+    "description": "Adhesive heating element for use on the outside of glass terrariums.",
+    "price": 2200,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Snakes",
+      "Geckos"
+    ],
+    "image": "C:/P_images/86.jpg",
+    "rating": 4.4,
+    "review_count": 6700,
+    "stock": 90,
+    "tags": [
+      "heating",
+      "adhesive",
+      "reptile-care"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/LABORATORIES-Reptitherm-Under-Tank-Heater/dp/B07KKHZPMG"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Virbac Nutri-Plus Gel",
+    "description": "High-energy nutritional supplement with vitamins and minerals for recovering cats and dogs.",
+    "price": 850,
+    "category": "medicine",
+    "brand": "Virbac",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/87.jpg",
+    "rating": 4.9,
+    "review_count": 3100,
+    "stock": 120,
+    "tags": [
+      "recovery",
+      "energy",
+      "vitamins"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Virbac-01524-Nutri-plus-Gel-Gram/dp/B073WTQDNL"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Prevue Pet Bird Playstand",
+    "description": "Rolling steel playstand for larger parrots. Includes perches and stainless steel cups.",
+    "price": 12500,
+    "category": "grooming",
+    "brand": "Prevue",
+    "species": "bird",
+    "suitable_breeds": [
+      "Parrots",
+      "Macaws"
+    ],
+    "image": "C:/P_images/88.jpg",
+    "rating": 4.7,
+    "review_count": 420,
+    "stock": 8,
+    "tags": [
+      "playtime",
+      "heavy-duty",
+      "steel"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Prevue-Round-Playstand-Large-3186/dp/B08R6LTD4Z"
+    }
+  },
+  {
+    "id": 89,
+    "name": "KONG Classic Dog Toy",
+    "description": "Ultra-durable natural rubber toy. Can be stuffed with treats to keep dogs busy for hours.",
+    "price": 899,
+    "category": "grooming",
+    "brand": "KONG",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/89.jpg",
+    "rating": 4.9,
+    "review_count": 98000,
+    "stock": 500,
+    "tags": [
+      "chew-toy",
+      "indestructible",
+      "best-seller"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Dog-Toys-Kong-Dogs/s?rh=n%3A4771401031%2Cp_89%3AKong"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Exo Terra Sand Mat",
+    "description": "Safe desert-style substrate. Natural look that is impossible to ingest, preventing impaction.",
+    "price": 1400,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Leopard Gecko"
+    ],
+    "image": "C:/P_images/90.jpg",
+    "rating": 4.5,
+    "review_count": 1800,
+    "stock": 40,
+    "tags": [
+      "substrate",
+      "safe",
+      "decor"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Sand-Mat-40-Gallon/dp/B00FKBFYG4"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Nekton-S Multi-Vitamin for Birds",
+    "description": "World-renowned multi-vitamin for all bird species to ensure overall health and breeding success.",
+    "price": 1850,
+    "category": "medicine",
+    "brand": "Nekton",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/91.jpg",
+    "rating": 4.9,
+    "review_count": 1200,
+    "stock": 25,
+    "tags": [
+      "premium",
+      "vitamins",
+      "breeding"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Nekton-733309201044-Nekton-S-Supplement-Birds/dp/B0002DILTM"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Fancy Dog Bow Tie - Polka Dot",
+    "description": "Simple slide-on bow tie for collars. Perfect for dog photography and festive looks.",
+    "price": 199,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/92.jpg",
+    "rating": 4.3,
+    "review_count": 110,
+    "stock": 100,
+    "tags": [
+      "fashion",
+      "accessory",
+      "cheap"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "amazon.in/Fur-Kids-Polka-Dots-Dog/dp/B084142YM8"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Sheba Melty Cat Treats - Tuna & Seafood",
+    "description": "Creamy cat snack in a sachet. Can be fed by hand to bond with your cat.",
+    "price": 180,
+    "category": "food",
+    "brand": "Sheba",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/93.jpg",
+    "rating": 4.8,
+    "review_count": 8900,
+    "stock": 350,
+    "tags": [
+      "creamy",
+      "seafood",
+      "bonding"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Sheba-Melty-Premium-Snack-Tuna-Seafood-Flavour/dp/B07GTX8N4Z?th=1",
+      "flipkart": "https://www.flipkart.com/sheba-melty-maguro-tuna-seafood-flavour-cat-treat-48gx6-tuna-sea-food/p/itm26932def8840a"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Zoo Med Repti Calcium (No D3)",
+    "description": "Pure calcium carbonate supplement for reptiles who already receive sufficient UVB.",
+    "price": 750,
+    "category": "medicine",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/94.jpg",
+    "rating": 4.8,
+    "review_count": 4200,
+    "stock": 120,
+    "tags": [
+      "calcium",
+      "pure",
+      "essential"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Calcium-Without-Vitamin/dp/B005FTMGYO"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Dog Paw Balm - All Natural",
+    "description": "Protects paws against salt, sand, and hot pavement. 100% natural and organic waxes.",
+    "price": 450,
+    "category": "grooming",
+    "brand": "Musher's Secret",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/95.jpg",
+    "rating": 4.9,
+    "review_count": 18000,
+    "stock": 40,
+    "tags": [
+      "organic",
+      "protection",
+      "healing"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Wagging-Tails-Butter-Moisturizes-Smoothen/dp/B0BS3NWF3C/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.DtzaLhc3QPas-AMeUv7WRjS7B1TiWLGIKl5L0VMOCWrwYe9JcXfNrDWJNuzjoU8q-ZdZ2j2tUYwyC5i6NujdUtEslsvzddQtr8LU4bp4v4ZCZUd3V6P0lLBYOWoHgtfuaimI45UbcTglYk_Wy9vlPPUOT1P6UMgLNQdoKVDes8ToCOOBCj1cPR0wYLKvXTENORiEEuCdWxqVI73ggE2rq8J2h_ERmaAV6Hqt4sNycaOXDtZw4MPGnjtuQsmDCVA18DVYQ5zicnZxRMfi54eMXYt76aHI8WdAPGn7n6qtXTA.89wZQ-4qC0cNfIysqkqxON2znHSeiMNnDF1tTRX3aR8&dib_tag=se&keywords=dog+paw+soother&qid=1769693189&sr=8-1-spons&aref=hQ5tKDwXJi&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Trixie Bird Mineral Stone",
+    "description": "Essential minerals for parakeets. Helps keep beaks trimmed and healthy.",
+    "price": 120,
+    "category": "food",
+    "brand": "Trixie",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Finches"
+    ],
+    "image": "C:/P_images/96.jpg",
+    "rating": 4.2,
+    "review_count": 1500,
+    "stock": 400,
+    "tags": [
+      "minerals",
+      "beak-health",
+      "calcium"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Trixie-Pecking-Stone-Spirulina-Birds/dp/B00080HF3W"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Cat Spiked Collar - Punk Style",
+    "description": "Micro-fiber leather with soft inner lining and safe rivets for a cool punk look.",
+    "price": 350,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/97.jpg",
+    "rating": 4.0,
+    "review_count": 450,
+    "stock": 60,
+    "tags": [
+      "punk",
+      "style",
+      "collar"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/sparrow-daughter-Genuine-Leather-Adjustable/dp/B0BVFF7DL2/ref=sr_1_50_sspa?dib=eyJ2IjoiMSJ9.s6AliwkKnY3Lj2bH4EUkUwiIO82aa0KENQiHvIDFqLWzkyGpYw4IAUxK25f09uTd6TdOmKmtj99VZu9T-dhyX9asPj9cUUjggJ102ocvJff6WBGC2OLfLnZo5yIj9GJ5Fn7IaCo1FuDyyalo54eAdC4o5eNrCOeS_3aF9ZoD09-HRCsgs2hBVJsnP3emRSVWgwYKNOKyrASDx2YCm-_njUz_u7fJgwtu2iF4RTy2lYydXC2Pqvn-0VOM8tO2racVMGzl7psgk4K3t_VT3vmCIt9CXPrM3w71DSh75k8Oemk.nNIxFgThpBzwRtTMMctQmnhqHXTEn1swWQOBcfoYq7A&dib_tag=se&keywords=spike%2Bcollar&qid=1769693247&sr=8-50-spons&aref=i4jUX6g3M2&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&th=1"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Beaphar Odour Killer for Reptiles",
+    "description": "Enzymatic cleaner that effectively breaks down smells from reptile droppings and food.",
+    "price": 850,
+    "category": "grooming",
+    "brand": "Beaphar",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/98.jpg",
+    "rating": 4.3,
+    "review_count": 210,
+    "stock": 35,
+    "tags": [
+      "cleaning",
+      "hygiene",
+      "enzymatic"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Beaphar-Dog-Odour-Eliminator-Spray/dp/B00LBZYKXQ"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Vitapol Snack Stick for Canaries",
+    "description": "Honey and fruit sticks that provide natural foraging fun for small birds.",
+    "price": 250,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "Canary",
+      "Lovebirds"
+    ],
+    "image": "C:/P_images/99.jpg",
+    "rating": 4.5,
+    "review_count": 670,
+    "stock": 180,
+    "tags": [
+      "treats",
+      "honey",
+      "foraging"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bird-Food-Vitapol-Birds/s?rh=n%3A4771370031%2Cp_89%3AVitapol"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Frontline Spot-On for Cats",
+    "description": "Flea and tick protection for kittens and cats over 8 weeks. Long-term protection.",
+    "price": 1200,
+    "category": "medicine",
+    "brand": "Frontline",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/100.jpg",
+    "rating": 4.8,
+    "review_count": 9200,
+    "stock": 100,
+    "tags": [
+      "anti-parasite",
+      "topical",
+      "standard-care"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Frontline-Spot-Cats-Protection-Compatible/dp/B0D2DCXKP3"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Zilla Reptile Munchies - Omnivore",
+    "description": "Dehydrated mix of zucchini, green beans, and insects. Just add water to provide a fresh meal for omnivorous reptiles.",
+    "price": 850,
+    "category": "food",
+    "brand": "Zilla",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Blue Tongue Skink"
+    ],
+    "image": "C:/P_images/101.jpg",
+    "rating": 4.6,
+    "review_count": 890,
+    "stock": 45,
+    "tags": [
+      "dehydrated",
+      "omnivore",
+      "convenient"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.com/ZillaReptile-Munchies-Omnivore-Resealable-Size/dp/B0FFCJ7JSS"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Himalaya Geriforte Pet Tablets",
+    "description": "Daily geriatric tonic for senior pets. Helps improve immunity and reduce oxidative stress in aging dogs.",
+    "price": 160,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/102.jpg",
+    "rating": 4.7,
+    "review_count": 2100,
+    "stock": 180,
+    "tags": [
+      "senior-care",
+      "herbal",
+      "immunity"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Geriforte-Tablets-100-Count/dp/B07D3Z77N1"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Bird Foraging Wall Toy",
+    "description": "Made from natural seagrass and stuffed with colorful paper. Encourages natural shredding and foraging behavior.",
+    "price": 699,
+    "category": "grooming",
+    "brand": "Super Bird",
+    "species": "bird",
+    "suitable_breeds": [
+      "Conures",
+      "Cockatiels",
+      "Parrots"
+    ],
+    "image": "C:/P_images/103.jpg",
+    "rating": 4.5,
+    "review_count": 520,
+    "stock": 35,
+    "tags": [
+      "foraging",
+      "shredding",
+      "enrichment"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Wooden-Foraging-Parrot-Chewing-Finches/dp/B0C5HYY9Q5"
+    }
+  },
+  {
+    "id": 104,
+    "name": "ThunderShirt Anxiety Jacket for Cats",
+    "description": "Gentle, constant pressure helps calm cats during vet visits, travel, and environmental stress.",
+    "price": 2800,
+    "category": "clothes",
+    "brand": "ThunderShirt",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/104.jpg",
+    "rating": 4.4,
+    "review_count": 15000,
+    "stock": 20,
+    "tags": [
+      "anxiety",
+      "calming",
+      "pressure-wrap"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Coppthinktu-Recommended-Solution-Fireworks-Separation/dp/B08TWVBX85?th=1"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Zoo Med Repti Bark Substrate",
+    "description": "Natural fir bark for high-humidity reptiles. Holds moisture effectively and provides a rainforest look.",
+    "price": 1650,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Ball Python",
+      "Water Dragon"
+    ],
+    "image": "C:/P_images/105.jpg",
+    "rating": 4.6,
+    "review_count": 3100,
+    "stock": 70,
+    "tags": [
+      "humidity",
+      "substrate",
+      "rainforest"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptile-Bedding-Quarts/dp/B001F9AMW6?th=1"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Dog Pajamas - Flannel Stars",
+    "description": "Full-body cotton flannel pajamas. Keeps short-haired dogs warm overnight during winter months.",
+    "price": 850,
+    "category": "clothes",
+    "brand": "Fitwarm",
+    "species": "dog",
+    "suitable_breeds": [
+      "Pug",
+      "Dachshund",
+      "Frenchie"
+    ],
+    "image": "C:/P_images/106.jpg",
+    "rating": 4.3,
+    "review_count": 2400,
+    "stock": 50,
+    "tags": [
+      "nightwear",
+      "flannel",
+      "cozy"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/KUTKUT-Bodysuit-Clothes-Boy-Soft-Stretchy/dp/B0CGJCCQYK/ref=sr_1_4_sspa?dib=eyJ2IjoiMSJ9.bNTf8-ko3efV3XsINSmZyOvj4xRkvk1w-PSivU07HASQ1-XVr4NqjlXzGDHbruXrN1FywX39QDDOdXmA0Aa95VbJjV00aivh_ZHh9XcwkCKENNdUQZFjAAaTc4iMSsRhs2lHEXUkRWZTTRAz22ACES_UnrKU8xq5qJwnaiEdcY6db6ig5byl-A8lxqgKKhqqmj0fPmn8l7LpMfdOXG0BEhDV1AL9b0BMdoSOU2HTl8-Jz2L0bqKecCzApcvkA9o8qp7dHNRolzyWbn3s3f_YaIvq08umoZhBSy4XcM5e6iw.-MIZ-95UBXCo2dqYEhIPtfQK-qiicvsun7dVpU1VqeQ&dib_tag=se&keywords=dog%2Bpyjamas&qid=1769693640&sr=8-4-spons&aref=zSVbQGvWmb&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Nutri-Vet Multi-Vite for Birds",
+    "description": "Powdered supplement containing 13 essential vitamins to fill nutritional gaps in seed-only diets.",
+    "price": 550,
+    "category": "medicine",
+    "brand": "Nutri-Vet",
+    "species": "bird",
+    "suitable_breeds": [
+      "Canary",
+      "Parakeet",
+      "Finches"
+    ],
+    "image": "C:/P_images/107.jpg",
+    "rating": 4.5,
+    "review_count": 670,
+    "stock": 120,
+    "tags": [
+      "multivitamin",
+      "powder",
+      "health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/multivitamin-for-birds/s?k=multivitamin+for+birds"
+    }
+  },
+  {
+    "id": 108,
+    "name": "PetSafe ScoopFree Litter Box",
+    "description": "Self-cleaning automatic litter box. Rakes waste into a hidden compartment for weeks of odor control.",
+    "price": 14500,
+    "category": "grooming",
+    "brand": "PetSafe",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/108.jpg",
+    "rating": 4.2,
+    "review_count": 18000,
+    "stock": 10,
+    "tags": [
+      "automatic",
+      "hygiene",
+      "litter-care"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/PetSafe-ScoopFree-Self-Cleaning-Litter-Box/dp/B000ELUQQS"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Virbac Cani-Leish Vaccine Prep",
+    "description": "Supportive oral drops for dogs in areas prone to Leishmaniasis. Boosts cellular immunity.",
+    "price": 3200,
+    "category": "medicine",
+    "brand": "Virbac",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/109.jpg",
+    "rating": 4.8,
+    "review_count": 85,
+    "stock": 15,
+    "tags": [
+      "specialized",
+      "vet-care",
+      "immunity"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Pet-Supplies-Virbac/s?rh=n%3A2454181031%2Cp_4%3AVirbac"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Exo Terra Moss Mat",
+    "description": "Washable terrarium liner that looks like natural moss. Soft and non-abrasive for delicate bellies.",
+    "price": 1200,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Frogs",
+      "Anoles",
+      "Juvenile Snakes"
+    ],
+    "image": "C:/P_images/110.jpg",
+    "rating": 4.4,
+    "review_count": 1100,
+    "stock": 40,
+    "tags": [
+      "washable",
+      "soft",
+      "substrate"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Moss-Mat-Medium/dp/B005AYYK70"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Prevue Pet Pagoda Bird Cage",
+    "description": "Architecturally styled bird cage for small to medium birds. Includes cups and two perches.",
+    "price": 5500,
+    "category": "grooming",
+    "brand": "Prevue",
+    "species": "bird",
+    "suitable_breeds": [
+      "Cockatiels",
+      "Lovebirds"
+    ],
+    "image": "C:/P_images/111.jpg",
+    "rating": 4.6,
+    "review_count": 820,
+    "stock": 12,
+    "tags": [
+      "cage",
+      "designer",
+      "housing"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Prevue-Products-Penthouse-270-20-Inch/dp/B00406UZ78"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Kong ZoomGroom Cat Brush",
+    "description": "Soft rubber bristles attract loose hair like a magnet while providing a relaxing massage.",
+    "price": 550,
+    "category": "grooming",
+    "brand": "KONG",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/112.jpg",
+    "rating": 4.7,
+    "review_count": 12000,
+    "stock": 100,
+    "tags": [
+      "massage",
+      "deshedding",
+      "rubber-brush"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Kong-Cat-Zoom-Groom-Toy/dp/B0002AR18M"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Zoo Med Repti Basking Spot Lamp 150W",
+    "description": "High-wattage basking bulb for larger habitats. Provides intense heat for desert species.",
+    "price": 1450,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Sulcata Tortoise",
+      "Monitor Lizard"
+    ],
+    "image": "C:/P_images/113.jpg",
+    "rating": 4.5,
+    "review_count": 4200,
+    "stock": 30,
+    "tags": [
+      "heating",
+      "high-wattage",
+      "desert"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Med-Reptile-Basking-Lamps-Watts/dp/B01BIC6R82"
+    }
+  },
+  {
+    "id": 114,
+    "name": "VetIQ Joint Care for Senior Dogs",
+    "description": "Glucosamine and Chondroitin chewables to support mobility and joint lubrication in older dogs.",
+    "price": 1850,
+    "category": "medicine",
+    "brand": "VetIQ",
+    "species": "dog",
+    "suitable_breeds": [
+      "Large Breeds",
+      "Senior Dogs"
+    ],
+    "image": "C:/P_images/114.jpg",
+    "rating": 4.8,
+    "review_count": 6300,
+    "stock": 45,
+    "tags": [
+      "joints",
+      "mobility",
+      "glucosamine"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/VETIQ%C2%AE-Joint-Supplement-Chews-Months/dp/B0DY1TQL92"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Sera Reptil Herbivor Mix",
+    "description": "Mix of pellets and natural herbs for turtles and other herbivorous reptiles.",
+    "price": 850,
+    "category": "food",
+    "brand": "Sera",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Tortoise",
+      "Iguana"
+    ],
+    "image": "C:/P_images/115.jpg",
+    "rating": 4.6,
+    "review_count": 215,
+    "stock": 60,
+    "tags": [
+      "herbivore",
+      "herbal-mix",
+      "natural"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Sera-Prof-Carnivor-Reptile-Food/dp/B0052MEXAE"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Bird Swing with Natural Shells",
+    "description": "Hand-made swing toy decorated with oyster shells. Great for beak trimming and play.",
+    "price": 450,
+    "category": "grooming",
+    "brand": "PetSitter",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Finches"
+    ],
+    "image": "C:/P_images/116.jpg",
+    "rating": 4.1,
+    "review_count": 310,
+    "stock": 80,
+    "tags": [
+      "swing",
+      "shells",
+      "beak-health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/DQITJ-Natural-Coconut-Hanging-Accessories/dp/B092JMJQN1"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Cat Sweater - Knitted Cable Style",
+    "description": "Elegant knitted sweater for cats. Perfect for indoor warmth and holiday photos.",
+    "price": 699,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "cat",
+    "suitable_breeds": [
+      "Sphynx",
+      "Persian"
+    ],
+    "image": "C:/P_images/117.jpg",
+    "rating": 4.5,
+    "review_count": 520,
+    "stock": 25,
+    "tags": [
+      "winter",
+      "knitted",
+      "sweater"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/cat-sweaters-for-cats-only/s?k=cat+sweaters+for+cats+only"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Zilla Rock Lair - Mossy Oak",
+    "description": "Realistic rock hide for snakes. Provides a humid microclimate to aid in shedding.",
+    "price": 1950,
+    "category": "grooming",
+    "brand": "Zilla",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Corn Snake",
+      "Milk Snake"
+    ],
+    "image": "C:/P_images/118.jpg",
+    "rating": 4.8,
+    "review_count": 940,
+    "stock": 18,
+    "tags": [
+      "shedding-box",
+      "humidity",
+      "hideout"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zilla-Decor-Rock-Lair-Medium/dp/B01N1EOR0K"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Beaphar Wound Ointment for Pets",
+    "description": "Soothing ointment with honey and aloe vera. Promotes healing of superficial skin wounds in birds and small mammals.",
+    "price": 425,
+    "category": "medicine",
+    "brand": "Beaphar",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/119.jpg",
+    "rating": 4.4,
+    "review_count": 215,
+    "stock": 50,
+    "tags": [
+      "wound-care",
+      "healing",
+      "honey"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/Beaphar-13764-Wound-Ointment-30ml/dp/B09VQ149QV?th=1"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Wiggles Stop-it Anti-Chew Spray",
+    "description": "Bitter-tasting spray for dogs to prevent them from chewing furniture and shoes.",
+    "price": 399,
+    "category": "grooming",
+    "brand": "Wiggles",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/120.jpg",
+    "rating": 4.0,
+    "review_count": 1100,
+    "stock": 150,
+    "tags": [
+      "anti-chew",
+      "training",
+      "bitter"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "amazon.in/Wiggles-DentaPetTM-Organic-Dental-Spray/dp/B091YX3YHM"
+    }
+  },
+  {
+    "id": 121,
+    "name": "Zoo Med Aquatic Turtle Food - Hatchling",
+    "description": "Micro-pellets designed for baby turtles. High in protein for rapid growth.",
+    "price": 550,
+    "category": "food",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Hatchling Turtles"
+    ],
+    "image": "C:/P_images/121.jpg",
+    "rating": 4.7,
+    "review_count": 890,
+    "stock": 100,
+    "tags": [
+      "growth",
+      "protein",
+      "hatchling"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Laboratories-Hatchling-1-6-Ounce/dp/B0002566RO"
+    }
+  },
+  {
+    "id": 122,
+    "name": "Bakson Veterinary Cineraria Maritima Eye Drops",
+    "description": "Eye lubricant to treat chronic dry eye (KCS) in cats and provide immediate relief from irritation.",
+    "price": 280,
+    "category": "medicine",
+    "brand": "Bakson Veterinary",
+    "species": "cat",
+    "suitable_breeds": [
+      "Persian",
+      "Exotic Shorthair"
+    ],
+    "image": "C:/P_images/122.jpg",
+    "rating": 4.6,
+    "review_count": 420,
+    "stock": 75,
+    "tags": [
+      "eye-care",
+      "lubricant",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bakson-Veterinary-Cineraria-Maritima-Drops/dp/B0FH9MJ4DM/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.Q5Vq88ywzVZ7n6ta850j4bNm-Htji2u99C0oxnqLS8TSNQ_IqyD9IW9lCmkoc7AgYTp9eEDyP7WBHzZ1_2446tpRGC20OrDyKjBUeiPbzn31aN46kcmYIUITLKkilnY-4esZxMbPHXezDVLWfMcJ01j07I2fXfbbCh3wjwmtjWkgtj7wpTbsQ5FdDMXp6AVFLFPbG9ZqKu9CIbu6Bz0BZLPZWhxKF--fbTQc6tsjJqmqTFzqXyF7SF4UjMfo2rUfkbQ_LiI_deQJgN4WFDg1I2pTsRat0O9rUWmDDBPgM6E.szd7gUao0mga6YnGZC4GU6Sk6N_w0AVP6P3oKr428gU&dib_tag=se&keywords=eye+drop+for+cat&qid=1769694303&sr=8-1-spons&aref=ymWgwg5n1T&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Vitapol Fruit Stick for Big Parrots",
+    "description": "Large snack sticks with dried dates and bananas. Provides hours of entertainment for big birds.",
+    "price": 450,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "Macaws",
+      "Cockatoos"
+    ],
+    "image": "C:/P_images/123.jpg",
+    "rating": 4.7,
+    "review_count": 150,
+    "stock": 50,
+    "tags": [
+      "treats",
+      "large-parrot",
+      "enrichment"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bird-Food-Vitapol-Birds/s?rh=n%3A4771370031%2Cp_89%3AVitapol"
+    }
+  },
+  {
+    "id": 124,
+    "name": "Exo Terra Magnetic Rock Hideout",
+    "description": "Unique magnetic hideout that attaches to the glass to view your pet while they sleep.",
+    "price": 3200,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Geckos",
+      "Lizards"
+    ],
+    "image": "C:/P_images/124.jpg",
+    "rating": 4.9,
+    "review_count": 120,
+    "stock": 5,
+    "tags": [
+      "magnetic",
+      "innovative",
+      "hideout"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Reptile-Den-Medium/dp/B0002AR5BU"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Dog Tuxedo with Bow Tie - Black/White",
+    "description": "Adjustable tuxedo for dogs to participate in weddings or black-tie events.",
+    "price": 1850,
+    "category": "clothes",
+    "brand": "Choostix",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/125.jpg",
+    "rating": 4.3,
+    "review_count": 420,
+    "stock": 15,
+    "tags": [
+      "wedding",
+      "formal",
+      "dog-clothes"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/tux-for-dogs/s?k=tux+for+dogs"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Zoo Med Repti Rain Sprinkler",
+    "description": "Programmable misting unit for terrariums. Helps maintain humidity for tropical reptiles and amphibians.",
+    "price": 6500,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Chameleons",
+      "Dart Frogs"
+    ],
+    "image": "C:/P_images/126.jpg",
+    "rating": 4.5,
+    "review_count": 890,
+    "stock": 12,
+    "tags": [
+      "humidity",
+      "mister",
+      "tech"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Automatic-Misting-Machine/dp/B0002DJ0QA"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Himalaya Anxocare Vet Syrup",
+    "description": "Ayurvedic proprietary medicine for behavior modification in dogs and cats during stressful situations like travel or noise.",
+    "price": 180,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/127.jpg",
+    "rating": 4.7,
+    "review_count": 5200,
+    "stock": 200,
+    "tags": [
+      "stress",
+      "ayurvedic",
+      "calming"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Anxocare-Vet-Tablet-Tablets/dp/B07FQ64QRN/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Qta2uNQzZVR52M9EdJK_pZ3UFLjmISpLsr2fsfZ0-f51FmafYHv5XpPfgnv6ZAs2o56z2opm1bFkZPFRm28aJKu5c9zHFDWYscXd4_uAX4s-pWMTMpFCNG7k-cVUalRx6zWwTYpedoyl_dXzjcH5ToDEh7fPtbnjv85yT6EMLUN0jLysLTy9EeDk-iHyrMTYW0buiZQo0NPQV2Qrl-5xQKVUg3HnTYtPPvPniaZ2LrXun7BysY2hCGnWGnW1JZWVdYpncxxKHD5IYDrMCFmuEr0FfQ_4CAmqMZ6GNv5g_kk.eG-Y2G1gKleDUcDtNPHh0RMN-IRrqekIxBAUsGCaFwQ&dib_tag=se&keywords=anxocare+himalaya+for+dogs&nsdOptOutParam=true&qid=1769694517&sr=8-2"
+    }
+  },
+  {
+    "id": 128,
+    "name": "ZuPreem FruitBlend - Large Parrots",
+    "description": "Premium daily bird food with natural fruit flavors specifically sized for large parrots.",
+    "price": 2450,
+    "category": "food",
+    "brand": "ZuPreem",
+    "species": "bird",
+    "suitable_breeds": [
+      "Amazon Parrots",
+      "Cockatoos"
+    ],
+    "image": "C:/P_images/128.jpg",
+    "rating": 4.8,
+    "review_count": 1400,
+    "stock": 45,
+    "tags": [
+      "nutrition",
+      "fruit",
+      "pellets"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/ZuPreem-Fruit-Flavor-natural-flavors/dp/B004UMM2DM?th=1"
+    }
+  },
+  {
+    "id": 129,
+    "name": "Dog Fleece Onesie",
+    "description": "Full-coverage fleece onesie to prevent snowballs on fur and provide maximum warmth for short-haired breeds.",
+    "price": 1299,
+    "category": "clothes",
+    "brand": "Hurtta",
+    "species": "dog",
+    "suitable_breeds": [
+      "Whippet",
+      "Greyhound",
+      "Indie"
+    ],
+    "image": "C:/P_images/129.jpg",
+    "rating": 4.6,
+    "review_count": 780,
+    "stock": 25,
+    "tags": [
+      "winter",
+      "fleece",
+      "onesie"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Pajamas-Bodysuit-Onesies-Jumpsuits-Four-Legged/dp/B0BNHZFB5T?th=1"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Virbac Ear Cleansing Solution",
+    "description": "Powerful ear cleaner with salicylic acid for routine hygiene and managing swimmer's ear in dogs.",
+    "price": 650,
+    "category": "medicine",
+    "brand": "Virbac",
+    "species": "dog",
+    "suitable_breeds": [
+      "Cocker Spaniel",
+      "Retriever"
+    ],
+    "image": "C:/P_images/130.jpg",
+    "rating": 4.9,
+    "review_count": 2100,
+    "stock": 110,
+    "tags": [
+      "ear-care",
+      "hygiene",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Epiotic-Cleanser-Dogs-Cats-Pack/dp/B0DXVLPXD6?s=bazaar"
+    }
+  },
+  {
+    "id": 131,
+    "name": "Exo Terra Screen Terrarium",
+    "description": "High-quality mesh enclosure providing optimal ventilation for arboreal reptiles like chameleons.",
+    "price": 9500,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Chameleon",
+      "Anole"
+    ],
+    "image": "C:/P_images/131.jpg",
+    "rating": 4.7,
+    "review_count": 350,
+    "stock": 8,
+    "tags": [
+      "habitat",
+      "mesh",
+      "arboreal"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-PT2677-Screen-Terrarium/dp/B00X6J08CM"
+    }
+  },
+  {
+    "id": 132,
+    "name": "Beaphar Multi-Vitamin Paste",
+    "description": "Delicious 2-in-1 paste for cats containing essential vitamins and taurine for heart and eye health.",
+    "price": 850,
+    "category": "medicine",
+    "brand": "Beaphar",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/132.jpg",
+    "rating": 4.8,
+    "review_count": 1200,
+    "stock": 60,
+    "tags": [
+      "vitamins",
+      "taurine",
+      "supplement"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Beaphar-Active-Paste-Multi-Vitamin/dp/B007VWICBY"
+    }
+  },
+  {
+    "id": 133,
+    "name": "Bird Swing with Cotton Rope",
+    "description": "Comfortable cotton rope swing for small birds to rest and preen their feathers.",
+    "price": 350,
+    "category": "grooming",
+    "brand": "PetSitter",
+    "species": "bird",
+    "suitable_breeds": [
+      "Finches",
+      "Budgies"
+    ],
+    "image": "C:/P_images/133.jpg",
+    "rating": 4.3,
+    "review_count": 450,
+    "stock": 90,
+    "tags": [
+      "play",
+      "rope",
+      "perch"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Birdcage-Swings-50-Off-or-more/s?rh=n%3A4771481031%2Cp_n_pct-off-with-tax%3A2665401031"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Himalaya Digyton Plus Syrup",
+    "description": "Digestive stimulant for dogs and cats. Helps in cases of indigestion, colic, and constipation.",
+    "price": 155,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/134.jpg",
+    "rating": 4.6,
+    "review_count": 3100,
+    "stock": 250,
+    "tags": [
+      "digestion",
+      "herbal",
+      "colic"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/BULLYPET-Natural-Health-Supplements-Digyton/dp/B0CSYGCZRJ"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Cat Harness with Wing Design",
+    "description": "Cute angel wing harness for cats. Made of soft nylon and includes a 1.2m leash.",
+    "price": 599,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/135.jpg",
+    "rating": 4.4,
+    "review_count": 120,
+    "stock": 40,
+    "tags": [
+      "harness",
+      "fashion",
+      "outdoor"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Harness-Escape-Ultra-Light-Aesthetic-Comfort/dp/B0F195YSVJ?th=1"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Zoo Med Aquatic Turtle Medicated Sulfa Block",
+    "description": "Helps control common bacterial infections (including shell rot) in aquatic turtles.",
+    "price": 350,
+    "category": "medicine",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Red Eared Slider",
+      "Turtle"
+    ],
+    "image": "C:/P_images/136.jpg",
+    "rating": 4.2,
+    "review_count": 1500,
+    "stock": 100,
+    "tags": [
+      "antibacterial",
+      "shell-care",
+      "water-treatment"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Laboratories-SZMMD11-Slow-Release/dp/B0061TC8C2"
+    }
+  },
+  {
+    "id": 137,
+    "name": "Vitapol Mineral Stone with Seaweed",
+    "description": "Enriched mineral block for birds with added seaweed for better iodine intake and feather gloss.",
+    "price": 199,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/137.jpg",
+    "rating": 4.5,
+    "review_count": 890,
+    "stock": 200,
+    "tags": [
+      "iodine",
+      "seaweed",
+      "minerals"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Vitapol-Mineral-Block-Birds-Shells/dp/B06WW25LYN"
+    }
+  },
+  {
+    "id": 138,
+    "name": "Savavet Metaflam Chewable Tablets",
+    "description": "Used to treat pain and inflammation associated with osteoarthritis in dogs.",
+    "price": 420,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/138.jpg",
+    "rating": 4.8,
+    "review_count": 1200,
+    "stock": 150,
+    "tags": [
+      "arthritis",
+      "pain-relief",
+      "veterinary"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://supertails.com/products/savavet-metaflam-dog-pain-medication-tablet?srsltid=AfmBOor2QS-g6hCYCqw5lm74FMhAUr-w4tLtbbaHnjAA1_UeTtosdYHL"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Exo Terra Silk Terrarium Plant - Ficus",
+    "description": "Natural-looking silk plant for reptiles to hide in and climb. Easy to clean and safe.",
+    "price": 750,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Geckos",
+      "Lizards",
+      "Snakes"
+    ],
+    "image": "C:/P_images/139.jpg",
+    "rating": 4.6,
+    "review_count": 2100,
+    "stock": 55,
+    "tags": [
+      "decor",
+      "hideout",
+      "plant"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Terrarium-Plant-Medium/dp/B0002AR5GA"
+    }
+  },
+  {
+    "id": 140,
+    "name": "Kaytee Higgins Sunburst Gourmet Mix",
+    "description": "Gourmet food mix for parrots containing seeds, fruits, nuts, and vegetables.",
+    "price": 1850,
+    "category": "food",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Cockatiels",
+      "Parrots"
+    ],
+    "image": "C:/P_images/140.jpg",
+    "rating": 4.7,
+    "review_count": 3200,
+    "stock": 40,
+    "tags": [
+      "gourmet",
+      "variety",
+      "nutrition"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Higgins-Sunburst-Gourmet-Hamsters-Gerbils/dp/B009GHII5W"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Bioline Catnip Spray",
+    "description": "High-purity catnip extract to stimulate playful behavior in cats. Can be used on scratchers.",
+    "price": 450,
+    "category": "grooming",
+    "brand": "Bioline",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/141.jpg",
+    "rating": 4.3,
+    "review_count": 920,
+    "stock": 150,
+    "tags": [
+      "catnip",
+      "spray",
+      "training"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bioline-Natural-Stress-Relief-Catnip/dp/B073ZMVVJ1"
+    }
+  },
+  {
+    "id": 142,
+    "name": "TropiClean Fresh Breath Water Additive",
+    "description": "Simply add to water bowl to provide 12 hours of fresh breath and support oral health.",
+    "price": 899,
+    "category": "grooming",
+    "brand": "TropiClean",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/142.jpg",
+    "rating": 4.5,
+    "review_count": 28000,
+    "stock": 80,
+    "tags": [
+      "dental",
+      "water-additive",
+      "breath"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Tropiclean-Fresh-Breath-Water-Additive/dp/B00379J2DW"
+    }
+  },
+  {
+    "id": 143,
+    "name": "Zoo Med Repti Thermostat",
+    "description": "Regulates temperature by turning heating devices on and off. Prevents overheating.",
+    "price": 3800,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/143.jpg",
+    "rating": 4.7,
+    "review_count": 1200,
+    "stock": 15,
+    "tags": [
+      "control",
+      "safety",
+      "thermostat"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-RT-600-REPTITEMP-Thermostat/dp/B07FYXX9L3"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Himalaya Nefrotec DS Tablets",
+    "description": "Herbal treatment for kidney stones and urinary tract infections in cats and dogs.",
+    "price": 350,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/144.jpg",
+    "rating": 4.8,
+    "review_count": 1450,
+    "stock": 120,
+    "tags": [
+      "kidney-health",
+      "urinary",
+      "ayurvedic"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/NEFROTEC-DS-Vet-Tablets-Pack/dp/B07KCZ7HT4"
+    }
+  },
+  {
+    "id": 145,
+    "name": "Bird Wood Ladder - 7 Steps",
+    "description": "Natural wood ladder for small to medium birds to climb and exercise.",
+    "price": 299,
+    "category": "grooming",
+    "brand": "PetSitter",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Cockatiels"
+    ],
+    "image": "C:/P_images/145.jpg",
+    "rating": 4.1,
+    "review_count": 680,
+    "stock": 150,
+    "tags": [
+      "climbing",
+      "exercise",
+      "wood"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Penn-BA110-7-Step-Wooden-Ladder/dp/B0002DGN6K"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Beaphar Wound Spray",
+    "description": "Propellent-free spray that cleanses and protects minor skin damage from infection.",
+    "price": 550,
+    "category": "medicine",
+    "brand": "Beaphar",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/146.jpg",
+    "rating": 4.4,
+    "review_count": 310,
+    "stock": 50,
+    "tags": [
+      "first-aid",
+      "disinfectant",
+      "spray"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/Beaphar-Cleanses-Irritated-Propolis-Pocket-Sized/dp/B09VPW8R52"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Cat Felt Cave Bed",
+    "description": "Hand-made wool felt bed that provides a warm, dark, and secure place for cats to sleep.",
+    "price": 1850,
+    "category": "grooming",
+    "brand": "Meowfia",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/147.jpg",
+    "rating": 4.9,
+    "review_count": 12000,
+    "stock": 30,
+    "tags": [
+      "bedding",
+      "wool",
+      "handmade"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Suitable-Hideaway-Removable-Mattress-Kittens-Cat/dp/B0CCTKKJMB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.80386RKG5N0k8aSCa9XVkNb47f3XRYO3l_LylNLa9MNoudfqABqrtTSChJ4ivkKsjYDOPAts5BEboWlXrt_5rr4z9K8vAxSICXPPgXQqUvZlSjxLPYHJrSOeQXV4Yu68v7m9fCMd-qbKI5cxJtkkR8MGN74tzFHI1S8pnjzg9uMkmV6iQ5wSJS_yYzzvF-OQGbhXZvkd1rnv-hGuA3OEn9nsaXaz5AczlTN2x4WPfaUMlPKUvz-_QOKN6mIT4mh2IckUyrXcNhuT15vSC-U_c0a_3MOHBl7Jjb9z9i8PJJ8.v5wGkYwCA700gGqCOi-A_XubVelhwLIB9Uski85pQsM&dib_tag=se&keywords=cat%2Bcave%2Bbeds&nsdOptOutParam=true&qid=1769695133&sr=8-5&th=1"
+    }
+  },
+  {
+    "id": 148,
+    "name": "Zoo Med Repti Halogen Lamp 50W",
+    "description": "Bright, white light with high UVA output. Encourages natural behavior and appetite.",
+    "price": 1150,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/148.jpg",
+    "rating": 4.5,
+    "review_count": 1800,
+    "stock": 40,
+    "tags": [
+      "lighting",
+      "uva",
+      "behavior"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Repti-Splashproof-Halogen/dp/B01BI97LYO"
+    }
+  },
+  {
+    "id": 149,
+    "name": "VetIQ Healthy Treats - Skin & Coat",
+    "description": "Nutritious crunchy treats for dogs enriched with Omega 3 and 6 fatty acids.",
+    "price": 350,
+    "category": "food",
+    "brand": "VetIQ",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/149.jpg",
+    "rating": 4.7,
+    "review_count": 920,
+    "stock": 180,
+    "tags": [
+      "omega-3",
+      "skin-health",
+      "treats"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/VetIQ-Healthy-Treats-Skin-puppies/dp/B006WL3IIM?th=1"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Prevue Pet Grass Nest for Birds",
+    "description": "Hand-woven natural grass nest. Provides a safe and cozy roosting spot for finches.",
+    "price": 250,
+    "category": "clothes",
+    "brand": "Prevue",
+    "species": "bird",
+    "suitable_breeds": [
+      "Finches",
+      "Canaries"
+    ],
+    "image": "C:/P_images/150.jpg",
+    "rating": 4.2,
+    "review_count": 1100,
+    "stock": 60,
+    "tags": [
+      "nest",
+      "natural",
+      "woven"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Prevue-Products-BPV1174-Grass-Handwoven/dp/B0089XP62W"
+    }
+  },
+  {
+    "id": 151,
+    "name": "Zoo Med ReptiSun 10.0 UVB T5 HO",
+    "description": "High-output linear lamp providing essential UVB rays for desert reptiles. Prevents Metabolic Bone Disease.",
+    "price": 3200,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Uromastyx"
+    ],
+    "image": "C:/P_images/151.jpg",
+    "rating": 4.9,
+    "review_count": 5200,
+    "stock": 25,
+    "tags": [
+      "uvb",
+      "desert",
+      "healthcare"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Pack-ReptiSun-Lamps/dp/B07PNK42W8"
+    }
+  },
+  {
+    "id": 152,
+    "name": "Himalaya Scavon Vet Cream",
+    "description": "Antibacterial and antifungal wound healing cream for pets. Effective against maggots and infections.",
+    "price": 120,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/152.jpg",
+    "rating": 4.8,
+    "review_count": 8900,
+    "stock": 400,
+    "tags": [
+      "antifungal",
+      "wound-care",
+      "herbal"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Wellness-Company-Scavon-Cream/dp/B006G87NDM"
+    }
+  },
+  {
+    "id": 153,
+    "name": "ZuPreem VeggieBlend - Medium Birds",
+    "description": "Daily bird food with natural carrot, spinach, and pea flavors. Ideal for nutritional variety.",
+    "price": 1850,
+    "category": "food",
+    "brand": "ZuPreem",
+    "species": "bird",
+    "suitable_breeds": [
+      "Cockatiels",
+      "Conures"
+    ],
+    "image": "C:/P_images/153.jpg",
+    "rating": 4.7,
+    "review_count": 2100,
+    "stock": 50,
+    "tags": [
+      "vegetables",
+      "pellets",
+      "daily-food"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/ZuPreem-VeggieBlend-Flavor-Natural-Flavours/dp/B084KT2Z8V"
+    }
+  },
+  {
+    "id": 154,
+    "name": "Dog Life Jacket - Safety Orange",
+    "description": "High-buoyancy life vest with reflective strips and a sturdy handle for water safety and swimming.",
+    "price": 2200,
+    "category": "clothes",
+    "brand": "Outward Hound",
+    "species": "dog",
+    "suitable_breeds": [
+      "Labrador",
+      "Golden Retriever"
+    ],
+    "image": "C:/P_images/154.jpg",
+    "rating": 4.8,
+    "review_count": 14500,
+    "stock": 15,
+    "tags": [
+      "swimming",
+      "safety",
+      "outdoor"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Lifejackets-Orange-Apparel-Accessories/s?rh=n%3A4771561031%2Cp_n_feature_sixteen_browse-bin%3A22745687031&hidden-keywords=-suitcase"
+    }
+  },
+  {
+    "id": 155,
+    "name": "Feliway Optimum Diffuser Kit",
+    "description": "Advanced pheromone technology to reduce cat scratching, spraying, and hiding behaviors.",
+    "price": 4500,
+    "category": "medicine",
+    "brand": "Ceva",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/155.jpg",
+    "rating": 4.6,
+    "review_count": 32000,
+    "stock": 20,
+    "tags": [
+      "pheromones",
+      "calming",
+      "behavior"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/FELIWAY-Optimum-Enhanced-Pheromone-Diffuser/dp/B097W651NJ"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Exo Terra Solar Glo - 125W",
+    "description": "All-in-one mercury vapor bulb providing UVA, UVB, and heat. Simulates natural sunlight.",
+    "price": 4800,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Iguana",
+      "Tortoise"
+    ],
+    "image": "C:/P_images/156.jpg",
+    "rating": 4.5,
+    "review_count": 2800,
+    "stock": 10,
+    "tags": [
+      "uvb",
+      "heat",
+      "mercury-vapor"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Solar-Glo-Intensity-Self-Ballasted/dp/B00DJ0D8CU"
+    }
+  },
+  {
+    "id": 157,
+    "name": "Virbac Epi-Otic Advanced Ear Cleanser",
+    "description": "Non-irritating ear cleaner for dogs and cats with anti-adhesive technology to prevent bacteria build-up.",
+    "price": 1100,
+    "category": "medicine",
+    "brand": "Virbac",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/157.jpg",
+    "rating": 4.9,
+    "review_count": 8600,
+    "stock": 65,
+    "tags": [
+      "ear-care",
+      "cleaning",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Epiotic-Cleanser-Dogs-Cats-Pack/dp/B0DXVLPXD6"
+    }
+  },
+  {
+    "id": 158,
+    "name": "Nekton-E Vitamin E for Birds",
+    "description": "Supplement for pet birds that aids in fertility and protects cell membranes during breeding.",
+    "price": 1650,
+    "category": "medicine",
+    "brand": "Nekton",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/158.jpg",
+    "rating": 4.8,
+    "review_count": 420,
+    "stock": 30,
+    "tags": [
+      "breeding",
+      "fertility",
+      "vitamin-e"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Nekton-Vitamin-Supplement-Birds-140gm/dp/B0002DIM1O"
+    }
+  },
+  {
+    "id": 159,
+    "name": "Cat Dental Treats - Salmon Flavor",
+    "description": "Crunchy texture helps reduce tartar and plaque buildup. Enriched with vitamins.",
+    "price": 350,
+    "category": "food",
+    "brand": "Greenies",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/159.jpg",
+    "rating": 4.7,
+    "review_count": 52000,
+    "stock": 500,
+    "tags": [
+      "dental",
+      "treats",
+      "salmon"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/VetIQ-Minties-Dental-Treats-Salmon/dp/B0763BPCFQ?th=1"
+    }
+  },
+  {
+    "id": 160,
+    "name": "Beaphar No Love Spray",
+    "description": "Spray for female dogs in heat to neutralize odors and discourage unwanted male attention.",
+    "price": 950,
+    "category": "medicine",
+    "brand": "Beaphar",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/160.jpg",
+    "rating": 4.1,
+    "review_count": 180,
+    "stock": 25,
+    "tags": [
+      "mating",
+      "neutralizer",
+      "spray"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.com.be/-/en/beaphar-No-love-spray-50/dp/B00O4B5M22"
+    }
+  },
+  {
+    "id": 161,
+    "name": "Zilla Vertical Decor - Rainforest",
+    "description": "Cling-on plants and branches for arboreal reptiles to climb without taking up floor space.",
+    "price": 1400,
+    "category": "grooming",
+    "brand": "Zilla",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Crested Gecko",
+      "Tree Frog"
+    ],
+    "image": "C:/P_images/161.jpg",
+    "rating": 4.4,
+    "review_count": 310,
+    "stock": 40,
+    "tags": [
+      "climbing",
+      "arboreal",
+      "decor"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zilla-Vertical-D%C3%A9cor-Reptiles-Rock/dp/B0006L10PC?th=1"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Bird Cuttlebone with Holder",
+    "description": "Natural source of calcium and minerals. Essential for beak grooming and shell strength in layers.",
+    "price": 150,
+    "category": "food",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Canary",
+      "Parakeet"
+    ],
+    "image": "C:/P_images/162.jpg",
+    "rating": 4.5,
+    "review_count": 3100,
+    "stock": 300,
+    "tags": [
+      "calcium",
+      "beak-health",
+      "minerals"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/cuttlefish-bone/s?k=cuttlefish+bone"
+    }
+  },
+  {
+    "id": 163,
+    "name": "Savavet Cephavet 600mg",
+    "description": "Broad-spectrum antibiotic for treating bacterial skin infections and urinary tract infections in dogs.",
+    "price": 550,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "Large Breeds"
+    ],
+    "image": "C:/P_images/163.jpg",
+    "rating": 4.7,
+    "review_count": 920,
+    "stock": 100,
+    "tags": [
+      "antibiotic",
+      "veterinary",
+      "skin-care"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bakson-Veterinary-Stomach-Drops-30ML/dp/B0CGJHLPYL/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.e7KzCVJqY76A99T5WZJMoQ.Soonapi_dwIGhdvqCURVCH59xKBn5KapydwJM4Yx82o&dib_tag=se&qid=1769701377&refinements=p_4%3ASava+Vet&s=pet-supplies&sr=1-2-spons&aref=fFsptn6Plh&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfYnJvd3Nl&psc=1"
+    }
+  },
+  {
+    "id": 164,
+    "name": "Exo Terra Feeding Dish - Medium",
+    "description": "Natural rock-look feeding bowl with smooth inner surface to prevent bacterial growth.",
+    "price": 650,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/164.jpg",
+    "rating": 4.6,
+    "review_count": 4200,
+    "stock": 80,
+    "tags": [
+      "bowl",
+      "feeding",
+      "natural-look"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Feeding-Dish-Medium/dp/B0002AR4CA"
+    }
+  },
+  {
+    "id": 165,
+    "name": "Kaytee Exact Rainbow Parakeet Food",
+    "description": "Nutritionally complete extruded food. Rainbow colors and fruit shapes to prevent selective feeding.",
+    "price": 1150,
+    "category": "food",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Parakeets",
+      "Lovebirds"
+    ],
+    "image": "C:/P_images/165.jpg",
+    "rating": 4.6,
+    "review_count": 1800,
+    "stock": 120,
+    "tags": [
+      "extruded",
+      "rainbow",
+      "nutrition"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Kaytee-Exact-Hand-Feeding-Baby/dp/B0002DGJH8/ref=sr_1_5?dib=eyJ2IjoiMSJ9.LnbQVwtN07oYt6pz5CgRQZpzlcGEULmF2S1zVAJrCUcL52TGPMIQzaxHY4GwPdcjBUx-QHTIdOrtFF1sJ2-wVtkzv0m9djey9ds5j5ZkS39AEiq1LtPnmy-r3SI505RNO4iHJX4e1pvAnrQXmj-_CMit9trxI6XKid0NN9StGeY_Hx4nZXxW-ETo-pCs9znHZtax73Y-bauv2qaWifo3pusEHnLgk77MP3n9Ty8usV2wwNdj742cMGsQdSTexbX8Ia3UsWEJp0_zHKjM5OyxJNGtdHH8wv6phe2ZLD7cjzg.eyapuWXvHvWTWeBRmGyIIHZBEHbLacrZdKZ1hpTOY2A&dib_tag=se&qid=1769701613&refinements=p_89%3AKaytee&s=pet-supplies&sr=1-5"
+    }
+  },
+  {
+    "id": 166,
+    "name": "PetSafe Solvit Car Seat Cover",
+    "description": "Heavy-duty waterproof hammock-style cover for backseats. Protects car interior from fur and mud.",
+    "price": 3800,
+    "category": "grooming",
+    "brand": "PetSafe",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/166.jpg",
+    "rating": 4.8,
+    "review_count": 12000,
+    "stock": 25,
+    "tags": [
+      "travel",
+      "car-care",
+      "waterproof"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/PetSafe-Solvit-Premium-Bucket-Waterproof/dp/B0785HBCDC"
+    }
+  },
+  {
+    "id": 167,
+    "name": "Cat Window Sill Perch - Deluxe",
+    "description": "Plush cushioned perch that attaches to any window sill. Supports up to 10kg.",
+    "price": 2400,
+    "category": "grooming",
+    "brand": "KittySill",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/167.jpg",
+    "rating": 4.7,
+    "review_count": 2100,
+    "stock": 18,
+    "tags": [
+      "bedding",
+      "sunbathing",
+      "window"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Products-Deluxe-Hammock-Removable-Bolster/dp/B07HMVB68D"
+    }
+  },
+  {
+    "id": 168,
+    "name": "Zoo Med ReptiVite (No D3)",
+    "description": "Amino acid and mineral complex for reptiles with plenty of natural sunlight or high UVB.",
+    "price": 1250,
+    "category": "medicine",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/168.jpg",
+    "rating": 4.8,
+    "review_count": 920,
+    "stock": 50,
+    "tags": [
+      "vitamins",
+      "supplement",
+      "health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptivite-Reptile-Vitamins/dp/B07SNWC6CP"
+    }
+  },
+  {
+    "id": 169,
+    "name": "Himalaya Speman Pet Tablets",
+    "description": "Helps manage low libido and promotes healthy sperm count in male stud dogs.",
+    "price": 180,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/169.jpg",
+    "rating": 4.4,
+    "review_count": 85,
+    "stock": 150,
+    "tags": [
+      "breeding",
+      "fertility",
+      "herbal"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Speman-Tablets-60/dp/B008PODZ4G?s=bazaar"
+    }
+  },
+  {
+    "id": 170,
+    "name": "Bird Cotton Perch - Large Rope",
+    "description": "Flexible multicolored rope perch that can be bent into any shape. Gentle on bird feet.",
+    "price": 750,
+    "category": "grooming",
+    "brand": "PetSitter",
+    "species": "bird",
+    "suitable_breeds": [
+      "African Grey",
+      "Amazon Parrot"
+    ],
+    "image": "C:/P_images/170.jpg",
+    "rating": 4.6,
+    "review_count": 1200,
+    "stock": 45,
+    "tags": [
+      "rope",
+      "perch",
+      "comfort"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Bendable-Lovebirds-Regular-Cockatiel-Supplies/dp/B0F3DFNDPC"
+    }
+  },
+  {
+    "id": 171,
+    "name": "Wahl Flea & Tick Shampoo - Rosemary",
+    "description": "Natural rosemary and cedar oil shampoo to repel and kill fleas and ticks without harsh chemicals.",
+    "price": 850,
+    "category": "grooming",
+    "brand": "Wahl",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/171.jpg",
+    "rating": 4.5,
+    "review_count": 3400,
+    "stock": 120,
+    "tags": [
+      "shampoo",
+      "natural-repellent",
+      "grooming"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Wahl-820007-Shampoo-Rosemary-710ml/dp/B005CUTY4Q?th=1"
+    }
+  },
+  {
+    "id": 172,
+    "name": "Exo Terra Grassland Tortoise Food",
+    "description": "High-fiber pellets enriched with calcium and vitamins for grazing tortoises.",
+    "price": 1450,
+    "category": "food",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Sulcata Tortoise",
+      "Leopard Tortoise"
+    ],
+    "image": "C:/P_images/172.jpg",
+    "rating": 4.7,
+    "review_count": 420,
+    "stock": 35,
+    "tags": [
+      "tortoise",
+      "fiber",
+      "grazing"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Tortoise-Foods/s?k=Tortoise+Foods"
+    }
+  },
+  {
+    "id": 173,
+    "name": "Savavet Carodyl 100mg",
+    "description": "Non-steroidal anti-inflammatory drug (NSAID) for post-operative pain and osteoarthritis in large dogs.",
+    "price": 950,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "Large Breeds"
+    ],
+    "image": "C:/P_images/173.jpg",
+    "rating": 4.8,
+    "review_count": 310,
+    "stock": 50,
+    "tags": [
+      "pain-relief",
+      "nsaid",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.1mg.com/otc/carodyl-100-carprofen-tablet-for-dogs-otc960891?srsltid=AfmBOorx2jBs5rbQMwneZMV3pP56025KbexphYLCTCIcqL9-zoeaziNI&wpsrc=Google+Organic+Search"
+    }
+  },
+  {
+    "id": 174,
+    "name": "Cat Collar with Reflective Fish",
+    "description": "Adjustable safety collar with breakaway buckle and reflective fish patterns for night visibility.",
+    "price": 250,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/174.jpg",
+    "rating": 4.2,
+    "review_count": 890,
+    "stock": 200,
+    "tags": [
+      "safety",
+      "reflective",
+      "collar"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Collar-Pattern-Security-Anti-Lost-Reflective/dp/B09NTWDY69"
+    }
+  },
+  {
+    "id": 175,
+    "name": "Vitapol Fruit Smakers - Budgies",
+    "description": "Double-baked treat sticks for parakeets with elderberries and oranges. Aids natural beak wear.",
+    "price": 320,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Finches"
+    ],
+    "image": "C:/P_images/175.jpg",
+    "rating": 4.6,
+    "review_count": 520,
+    "stock": 150,
+    "tags": [
+      "treats",
+      "fruit",
+      "smakers"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Vitapol-Fruit-Smakers-Budgie-90gms/dp/B00S0MRZ08"
+    }
+  },
+  {
+    "id": 176,
+    "name": "Zoo Med ReptiBator Digital Incubator",
+    "description": "Digital controller with LCD display and LED heat indicator light. Precise temperature control for hatching reptile eggs.",
+    "price": 14500,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/176.jpg",
+    "rating": 4.8,
+    "review_count": 210,
+    "stock": 5,
+    "tags": [
+      "breeding",
+      "incubator",
+      "professional"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptibator-Egg-Incubator/dp/B0038Z5RMU"
+    }
+  },
+  {
+    "id": 177,
+    "name": "Himalaya HimCal Pet Calcium Syrup",
+    "description": "Calcium and phosphorus supplement for young and growing pets to ensure strong bone and joint development.",
+    "price": 195,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "Puppies",
+      "Large Breeds"
+    ],
+    "image": "C:/P_images/177.jpg",
+    "rating": 4.7,
+    "review_count": 5400,
+    "stock": 300,
+    "tags": [
+      "calcium",
+      "bone-health",
+      "puppy-care"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himcal-Calcium-Suspension-Supplements-Animals/dp/B0BFR7WJLF"
+    }
+  },
+  {
+    "id": 178,
+    "name": "Bird Acrylic Mirror with Perch",
+    "description": "Safety mirror designed for parrots to reduce loneliness. Includes a textured perch for grip.",
+    "price": 450,
+    "category": "grooming",
+    "brand": "Super Bird",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Cockatiels"
+    ],
+    "image": "C:/P_images/178.jpg",
+    "rating": 4.3,
+    "review_count": 1200,
+    "stock": 85,
+    "tags": [
+      "mirror",
+      "toy",
+      "mental-health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Mirror-Parrot-Parakeet-Conure-Supplies/dp/B0F993QLFR"
+    }
+  },
+  {
+    "id": 179,
+    "name": "Dog Orthopedic Memory Foam Bed",
+    "description": "Premium therapeutic bed designed for senior dogs with arthritis or hip dysplasia.",
+    "price": 6500,
+    "category": "grooming",
+    "brand": "BarkBox",
+    "species": "dog",
+    "suitable_breeds": [
+      "Golden Retriever",
+      "GSD",
+      "Senior Dogs"
+    ],
+    "image": "C:/P_images/179.jpg",
+    "rating": 4.9,
+    "review_count": 8900,
+    "stock": 15,
+    "tags": [
+      "orthopedic",
+      "sleep",
+      "senior-care"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/gorgeous-Orthopadic-Waterproof-Labrador-Retriever/dp/B0F74L43MX/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.-nwNnJBUU57LhJ0I8GA7BsFyngeJoJaSZg3arPLNtWvSK-RkmzLNF-clSOVCDqQXL_KX5_64dFsMbKvXtmkoUgbcRVMzavzsXDfz-tVKtkaBBwiwXmbPEPs6j3JH7sRhlrRjYwYvXQPdTkRhYJxX1vlqD5zA4uHtL1A-tDFmZ81y0lx1pqfhom_pEbgFZO-n21DdCr7WVrYOoLBwxsvYZFWs4JttempI6Qfv2MHjRu9ofjwMayTiPCbu1dbUkcEWBIRKL4356OFsD_PNB1o0wwqjTd-MF0qPNj566yFL5HY.IVbefIrYLXjUsZs3w0xPCqO7j6YoaJ2hcO54-3LosT0&dib_tag=se&keywords=memory+foam+dog+bed&qid=1769702451&sr=8-3-spons&aref=5mh6ht2s98&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+    }
+  },
+  {
+    "id": 180,
+    "name": "Exo Terra Screen Cover - 20 Gallon",
+    "description": "Replacement metal screen cover for glass terrariums. Provides security and ventilation.",
+    "price": 1850,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/180.jpg",
+    "rating": 4.4,
+    "review_count": 620,
+    "stock": 40,
+    "tags": [
+      "lid",
+      "ventilation",
+      "security"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Screen-Cover-Gallon/dp/B00LH2ET20"
+    }
+  },
+  {
+    "id": 181,
+    "name": "Beaphar Salmon Oil for Cats",
+    "description": "100% pure salmon oil. Rich in DHA/EPA to promote a glossy coat and healthy skin.",
+    "price": 1100,
+    "category": "food",
+    "brand": "Beaphar",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/181.jpg",
+    "rating": 4.8,
+    "review_count": 3100,
+    "stock": 120,
+    "tags": [
+      "skin-care",
+      "salmon-oil",
+      "omega-3"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Beaphar-Salmon-Oil-425-ml/dp/B003TL668W"
+    }
+  },
+  {
+    "id": 182,
+    "name": "ZuPreem Real Rewards - Trail Mix",
+    "description": "A premium blend of nuts and fruits for large parrots. Great for hand-feeding and bonding.",
+    "price": 1250,
+    "category": "food",
+    "brand": "ZuPreem",
+    "species": "bird",
+    "suitable_breeds": [
+      "Macaws",
+      "Cockatoos"
+    ],
+    "image": "C:/P_images/182.jpg",
+    "rating": 4.7,
+    "review_count": 450,
+    "stock": 60,
+    "tags": [
+      "nuts",
+      "treats",
+      "bonding"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Birds-Small-Animals-ZuPreem-Pet-Supplies/s?rh=n%3A10101293031%2Cp_89%3AZuPreem"
+    }
+  },
+  {
+    "id": 183,
+    "name": "Himalaya Scavon Vet Cream",
+    "description": "Herbal wound healing cream with antimicrobial properties. Protects wounds from maggots and flies.",
+    "price": 150,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/183.jpg",
+    "rating": 4.6,
+    "review_count": 2800,
+    "stock": 250,
+    "tags": [
+      "wound-care",
+      "herbal",
+      "antimicrobial"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Royal-Sigma-Himalaya-Scavon-Cream/dp/B0CG1CVV62"
+    }
+  },
+  {
+    "id": 184,
+    "name": "Zoo Med Repti Rock Corner Bowl",
+    "description": "Space-saving water bowl that fits into the corner of the tank. Natural rocky texture.",
+    "price": 850,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/184.jpg",
+    "rating": 4.5,
+    "review_count": 3100,
+    "stock": 100,
+    "tags": [
+      "water-bowl",
+      "corner-fit",
+      "natural"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptile-Corner-X-Large/dp/B000QFVYOA"
+    }
+  },
+  {
+    "id": 185,
+    "name": "Cat Steam Brush - 3-in-1",
+    "description": "Innovative silicone brush using steam technology to remove loose hair and clean the coat without a full bath.",
+    "price": 1200,
+    "category": "grooming",
+    "brand": "Generic",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/185.jpg",
+    "rating": 4.2,
+    "review_count": 4500,
+    "stock": 50,
+    "tags": [
+      "steamer",
+      "deshedding",
+      "cleaning"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Steam-Steamer-Steamy-Cleanser-Steaming/dp/B0CQYZKTTL"
+    }
+  },
+  {
+    "id": 186,
+    "name": "Prevue Pet Birdie Basics Swing",
+    "description": "Simple plastic swing for small birds. Durable and easy to sanitize.",
+    "price": 180,
+    "category": "grooming",
+    "brand": "Prevue",
+    "species": "bird",
+    "suitable_breeds": [
+      "Finches",
+      "Budgies"
+    ],
+    "image": "C:/P_images/186.jpg",
+    "rating": 4.0,
+    "review_count": 920,
+    "stock": 200,
+    "tags": [
+      "swing",
+      "basic",
+      "budget"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Prevue-Products-BPV387-Natural-Birdie/dp/B005FTNG8E"
+    }
+  },
+  {
+    "id": 187,
+    "name": "Virbac Allerderm Spot-On",
+    "description": "Skin lipid complex that helps repair the skin barrier in dogs and cats with allergic skin disease.",
+    "price": 2800,
+    "category": "medicine",
+    "brand": "Virbac",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/187.jpg",
+    "rating": 4.9,
+    "review_count": 120,
+    "stock": 35,
+    "tags": [
+      "skin-repair",
+      "allergy",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Virbac-Allerderm-Moisturising-Emulsion-pipettes/dp/B07N6BRWLG"
+    }
+  },
+  {
+    "id": 188,
+    "name": "Zoo Med Repti Fogger",
+    "description": "Ultrasonic humidifying fogger for tropical terrariums. Includes adjustable flow control.",
+    "price": 5500,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Tropical Geckos",
+      "Frogs"
+    ],
+    "image": "C:/P_images/188.jpg",
+    "rating": 4.3,
+    "review_count": 1800,
+    "stock": 10,
+    "tags": [
+      "humidity",
+      "fogger",
+      "habitat"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Reptile-Terrarium-Humidifier/dp/B0019IJXD2"
+    }
+  },
+  {
+    "id": 189,
+    "name": "Dog raincoat - Yellow Slicker",
+    "description": "Classic bright yellow hooded raincoat. 100% waterproof with reflective safety stripes.",
+    "price": 999,
+    "category": "clothes",
+    "brand": "Generic",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/189.jpg",
+    "rating": 4.5,
+    "review_count": 1100,
+    "stock": 45,
+    "tags": [
+      "monsoon",
+      "waterproof",
+      "safety"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Fashion-Pet-Slicker-Yellow-Raincoat/dp/B004GF8TH6"
+    }
+  },
+  {
+    "id": 190,
+    "name": "Himalaya HimPyrin Pet Liquid",
+    "description": "Effective anti-inflammatory and pain reliever for dogs and cats. Helps reduce fever.",
+    "price": 145,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/190.jpg",
+    "rating": 4.7,
+    "review_count": 3200,
+    "stock": 400,
+    "tags": [
+      "pain-relief",
+      "fever",
+      "ayurvedic"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Wellness-Company-HIM7703-Himpyrin/dp/B07L9P437V"
+    }
+  },
+  {
+    "id": 191,
+    "name": "Nekton-Q Vitamin for Birds",
+    "description": "Special multivitamin for birds during antibiotic treatment or stressful medical procedures.",
+    "price": 1450,
+    "category": "medicine",
+    "brand": "Nekton",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/191.jpg",
+    "rating": 4.8,
+    "review_count": 150,
+    "stock": 40,
+    "tags": [
+      "medical-support",
+      "vitamins",
+      "recovery"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Nekton-Labs-Nekton-Q-for-Birds/dp/B09GMG5X3M"
+    }
+  },
+  {
+    "id": 192,
+    "name": "Exo Terra Monsoon Solo II",
+    "description": "Programmable misting system. Can be set to mist multiple times per 24-hour cycle.",
+    "price": 8500,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Chameleons",
+      "Amphibians"
+    ],
+    "image": "C:/P_images/192.jpg",
+    "rating": 4.6,
+    "review_count": 520,
+    "stock": 8,
+    "tags": [
+      "mister",
+      "automatic",
+      "tech"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Monsoon-Programmable-Misting/dp/B08KJ4G2XL"
+    }
+  },
+  {
+    "id": 193,
+    "name": "Vitapol Fruit Smakers - Parrots",
+    "description": "Large double-baked snack sticks for big parrots with premium fruits and minerals.",
+    "price": 480,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "African Grey",
+      "Parrots"
+    ],
+    "image": "C:/P_images/193.jpg",
+    "rating": 4.5,
+    "review_count": 670,
+    "stock": 100,
+    "tags": [
+      "treats",
+      "fruit",
+      "large-bird"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Vitapol-Smakers-Fruit-Large-Parrot/dp/B00CMPX3EG"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Savavet L-Lysine Oral Paste",
+    "description": "Used as an aid in the treatment of Feline Herpes Virus (FHV-1) in kittens and cats.",
+    "price": 650,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/194.jpg",
+    "rating": 4.9,
+    "review_count": 310,
+    "stock": 80,
+    "tags": [
+      "immune-support",
+      "virus-care",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Pet-Supplies-Sava-Vet/s?rh=n%3A2454181031%2Cp_4%3ASava%2BVet"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Zoo Med Repti Calcium with D3",
+    "description": "Precipitated calcium carbonate supplement with Vitamin D3 for reptiles kept indoors.",
+    "price": 950,
+    "category": "medicine",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/195.jpg",
+    "rating": 4.8,
+    "review_count": 8600,
+    "stock": 150,
+    "tags": [
+      "calcium",
+      "d3",
+      "essential"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Repti-Calcium-D3/dp/B07SJVQHX1"
+    }
+  },
+  {
+    "id": 196,
+    "name": "PetSafe Drinkwell Filter Replacements",
+    "description": "3-pack of charcoal filters for the Drinkwell fountain. Keeps water tasting fresh.",
+    "price": 899,
+    "category": "grooming",
+    "brand": "PetSafe",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/196.jpg",
+    "rating": 4.7,
+    "review_count": 25000,
+    "stock": 300,
+    "tags": [
+      "filters",
+      "accessories",
+      "clean-water"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Water-Feed-Drinkwell-Fountain-Replacement/dp/B000W73M10"
+    }
+  },
+  {
+    "id": 197,
+    "name": "Wiggles Hemp Seed Oil for Pets",
+    "description": "Cold-pressed hemp seed oil for dogs and cats. Supports healthy joints and reduces anxiety.",
+    "price": 599,
+    "category": "medicine",
+    "brand": "Wiggles",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/197.jpg",
+    "rating": 4.4,
+    "review_count": 890,
+    "stock": 110,
+    "tags": [
+      "hemp",
+      "anxiety",
+      "joint-care"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/WIGGLES-Hemp-Seed-Anxiety-Relief/dp/B0B71RLTLF?th=11"
+    }
+  },
+  {
+    "id": 198,
+    "name": "Exo Terra Glow Light - Small",
+    "description": "Clamp lamp with glow-in-the-dark reflector. Provides heat and light even after the bulb is off.",
+    "price": 1650,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/198.jpg",
+    "rating": 4.6,
+    "review_count": 1200,
+    "stock": 35,
+    "tags": [
+      "lamp",
+      "glow",
+      "heating"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Light-Porcelain-2-Inch/dp/B0017JHHXQ"
+    }
+  },
+  {
+    "id": 199,
+    "name": "Bird Sand Sheets - 5 Pack",
+    "description": "Abrasive paper sheets for the bottom of cages. Helps keep bird claws trimmed naturally.",
+    "price": 150,
+    "category": "grooming",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/199.jpg",
+    "rating": 4.1,
+    "review_count": 670,
+    "stock": 400,
+    "tags": [
+      "grooming",
+      "cage-liner",
+      "claws"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "http://amazon.in/s?rh=n%3A20452712031&page=3&xpid=UXlReO4kBu5Bd"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Hartz Groomer's Best Flea Comb",
+    "description": "Fine-toothed comb designed specifically to remove fleas and flea eggs from cat fur.",
+    "price": 350,
+    "category": "grooming",
+    "brand": "Hartz",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/200.jpg",
+    "rating": 4.5,
+    "review_count": 8900,
+    "stock": 150,
+    "tags": [
+      "flea-control",
+      "comb",
+      "grooming"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Hartz-Groomers-Best-Flea-Comb/dp/B0055BNET8"
+    }
+  },
+  {
+    "id": 201,
+    "name": "Zoo Med TurtleClean Filter 30",
+    "description": "External canister filter specifically designed for turtle tanks. High-volume filtration for messy eaters.",
+    "price": 4800,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Red Eared Sliders",
+      "Map Turtles"
+    ],
+    "image": "C:/P_images/201.jpg",
+    "rating": 4.6,
+    "review_count": 1200,
+    "stock": 15,
+    "tags": [
+      "filtration",
+      "clean-water",
+      "aquatic"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Turtle-Submersible-Filter/dp/B001F95UA0?th=1"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Himalaya Liv.52 Pet Syrup",
+    "description": "Appetite stimulant and hepatoprotective for dogs and cats. Supports liver health and regeneration.",
+    "price": 165,
+    "category": "medicine",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/202.jpg",
+    "rating": 4.9,
+    "review_count": 15000,
+    "stock": 500,
+    "tags": [
+      "liver-health",
+      "herbal",
+      "appetite"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/liv-52-pet-syrup/s?k=liv+52+pet+syrup"
+    }
+  },
+  {
+    "id": 203,
+    "name": "Bird Breeding Box - Large",
+    "description": "Natural wood nesting box with a secure inspection door and circular entrance for large parrots.",
+    "price": 1450,
+    "category": "grooming",
+    "brand": "PetSitter",
+    "species": "bird",
+    "suitable_breeds": [
+      "African Greys",
+      "Amazons"
+    ],
+    "image": "C:/P_images/203.jpg",
+    "rating": 4.4,
+    "review_count": 310,
+    "stock": 20,
+    "tags": [
+      "nesting",
+      "breeding",
+      "wood"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/bird-breeding-box/s?k=bird+breeding+box"
+    }
+  },
+  {
+    "id": 204,
+    "name": "GingerLead Dog Support Sling",
+    "description": "Premium padded lifting harness for dogs with weak hind legs, ACL injuries, or hip dysplasia.",
+    "price": 4200,
+    "category": "grooming",
+    "brand": "GingerLead",
+    "species": "dog",
+    "suitable_breeds": [
+      "Large Breeds",
+      "Senior Dogs"
+    ],
+    "image": "C:/P_images/204.jpg",
+    "rating": 4.8,
+    "review_count": 2200,
+    "stock": 10,
+    "tags": [
+      "mobility",
+      "harness",
+      "recovery"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/GingerLead-Dog-Support-Rehabilitation-Harness/dp/B00GPYF8A2"
+    }
+  },
+  {
+    "id": 205,
+    "name": "Beaphar Cat Calming Treats",
+    "description": "Crunchy treats containing valerian, hop flowers, and melissa to reduce anxiety during fireworks or travel.",
+    "price": 450,
+    "category": "food",
+    "brand": "Beaphar",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/205.jpg",
+    "rating": 4.3,
+    "review_count": 890,
+    "stock": 100,
+    "tags": [
+      "calming",
+      "valerian",
+      "anxiety"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/Beaphar-Calming-Cat-Treats-35/dp/B015SA194C?th=1"
+    }
+  },
+  {
+    "id": 206,
+    "name": "Exo Terra Sand Mat - 20 Gallon",
+    "description": "Natural desert-look mat. Safe alternative to loose sand, preventing accidental ingestion by reptiles.",
+    "price": 1400,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Bearded Dragon",
+      "Leopard Gecko"
+    ],
+    "image": "C:/P_images/206.jpg",
+    "rating": 4.7,
+    "review_count": 3400,
+    "stock": 60,
+    "tags": [
+      "substrate",
+      "desert",
+      "safety"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Sand-Mat-20-Gallon/dp/B00FKBLTTA"
+    }
+  },
+  {
+    "id": 207,
+    "name": "Virbac Nutri-plus Gel",
+    "description": "High-energy nutritional supplement with vitamins and minerals for recovering or working pets.",
+    "price": 850,
+    "category": "medicine",
+    "brand": "Virbac",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/207.jpg",
+    "rating": 4.9,
+    "review_count": 5200,
+    "stock": 180,
+    "tags": [
+      "recovery",
+      "high-energy",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Virbac-01524-Nutri-plus-Gel-Gram/dp/B073WTQDNL"
+    }
+  },
+  {
+    "id": 208,
+    "name": "Kaytee Higgins Sunburst Fruits",
+    "description": "Treat mix of papaya, pineapple, and mango for birds. No artificial colors or preservatives.",
+    "price": 550,
+    "category": "food",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Parrots",
+      "Conures"
+    ],
+    "image": "C:/P_images/208.jpg",
+    "rating": 4.8,
+    "review_count": 1100,
+    "stock": 90,
+    "tags": [
+      "dried-fruit",
+      "treats",
+      "natural"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Higgins-Sunburst-Gourmet-Hamsters-Gerbils/dp/B009GHII5W"
+    }
+  },
+  {
+    "id": 209,
+    "name": "Savavet Visiocare Ointment",
+    "description": "Cyclosporine eye ointment for the treatment of Keratoconjunctivitis Sicca (Dry Eye) in dogs.",
+    "price": 950,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "Pug",
+      "Cocker Spaniel"
+    ],
+    "image": "C:/P_images/209.jpg",
+    "rating": 4.7,
+    "review_count": 420,
+    "stock": 45,
+    "tags": [
+      "eye-health",
+      "dry-eye",
+      "specialized"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "supertails": "https://supertails.com/products/savavet-visiocare-ointment?srsltid=AfmBOoqDuJ7Pk5xxq989diTHGSmDbC0-TRX5iyODOD66B_2Pz9R1e4Ma"
+    }
+  },
+  {
+    "id": 210,
+    "name": "Zoo Med Repti Basking Combo Pack",
+    "description": "Includes a Basking Spot Lamp and a 5.0 UVB bulb. Everything needed for a basic lighting setup.",
+    "price": 2800,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Tropical Lizards",
+      "Turtles"
+    ],
+    "image": "C:/P_images/210.jpg",
+    "rating": 4.6,
+    "review_count": 2100,
+    "stock": 30,
+    "tags": [
+      "lighting",
+      "bundle",
+      "value-pack"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Repti-Basking-Lamps/dp/B07F449L8J"
+    }
+  },
+  {
+    "id": 211,
+    "name": "Cat Slicker Brush - Self Cleaning",
+    "description": "Soft wire bristles with a push-button mechanism to retract pins and release trapped fur instantly.",
+    "price": 750,
+    "category": "grooming",
+    "brand": "Hertzko",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/211.jpg",
+    "rating": 4.8,
+    "review_count": 65000,
+    "stock": 120,
+    "tags": [
+      "grooming",
+      "slicker",
+      "self-cleaning"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/slicker-brush-for-cats/s?k=slicker+brush+for+cats"
+    }
+  },
+  {
+    "id": 212,
+    "name": "Prevue Pet Bird Cage Stand",
+    "description": "Rolling metal cage stand with a storage shelf. Fits most small to medium cage footprints.",
+    "price": 3200,
+    "category": "grooming",
+    "brand": "Prevue",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/212.jpg",
+    "rating": 4.5,
+    "review_count": 1800,
+    "stock": 15,
+    "tags": [
+      "cage-stand",
+      "furniture",
+      "rolling"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "http://amazon.in/Prevue-Products-SP445W-Stand-Shelf/dp/B010SDTX38"
+    }
+  },
+  {
+    "id": 213,
+    "name": "Wiggles Stop-it Anti-Lick Spray",
+    "description": "Safe, bitter spray to prevent dogs from licking wounds, bandages, or hot spots.",
+    "price": 350,
+    "category": "grooming",
+    "brand": "Wiggles",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/213.jpg",
+    "rating": 4.1,
+    "review_count": 520,
+    "stock": 200,
+    "tags": [
+      "recovery",
+      "anti-lick",
+      "bitter"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/WIGGLES-Ravtix-Ticks-Fleas-Remover/dp/B09YNRMB12"
+    }
+  },
+  {
+    "id": 214,
+    "name": "Exo Terra Ceramic Heater 100W",
+    "description": "Non-light emitting heat source. Ideal for night-time heating without disrupting sleep cycles.",
+    "price": 2200,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/214.jpg",
+    "rating": 4.7,
+    "review_count": 4200,
+    "stock": 40,
+    "tags": [
+      "night-heat",
+      "ceramic",
+      "no-light"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Ceramic-100-Watt-110-Volt/dp/B0002DIAXO"
+    }
+  },
+  {
+    "id": 215,
+    "name": "Vitapol Mineral Stone with Apple",
+    "description": "Apple-flavored calcium block for birds. Encourages chewing and provides essential minerals.",
+    "price": 180,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "Budgies",
+      "Finches"
+    ],
+    "image": "C:/P_images/215.jpg",
+    "rating": 4.4,
+    "review_count": 670,
+    "stock": 300,
+    "tags": [
+      "calcium",
+      "treats",
+      "minerals"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Vitapol-Mineral-Stone-Birds-Apple/dp/B009JDJKAK"
+    }
+  },
+  {
+    "id": 216,
+    "name": "Savavet Carodyl 25mg",
+    "description": "NSAID for pain management in small to medium breed dogs. Effective for joint pain.",
+    "price": 450,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "Beagle",
+      "Shih Tzu"
+    ],
+    "image": "C:/P_images/216.jpg",
+    "rating": 4.8,
+    "review_count": 890,
+    "stock": 120,
+    "tags": [
+      "pain-relief",
+      "joint-care",
+      "nsaid"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/carodyl-100mg-for-dogs-tablets/s?k=carodyl+100mg+for+dogs+tablets&page=2"
+    }
+  },
+  {
+    "id": 217,
+    "name": "Cat Hide & Seek Tunnel - 3 Way",
+    "description": "Collapsible T-shaped tunnel with hanging toys and crinkle paper. Perfect for active cats.",
+    "price": 850,
+    "category": "grooming",
+    "brand": "Generic",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/217.jpg",
+    "rating": 4.6,
+    "review_count": 12000,
+    "stock": 80,
+    "tags": [
+      "play",
+      "tunnel",
+      "exercise"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Rainbow-Collapsible-Playing-Exercising-Training/dp/B099DD2GH9/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.D55VbmFlKmb_vtQCsVgv85LLjp9SXAZkip6wndZYNWP9b7swl9OFbsIbxUlVddBoU4q0j7GQXsmHzNx1Il3SOVcyskqaXAOjO-Hyyb2d4qRhAGCMM2tBpabH2Cq_T71mPdxbfg0tFiDXmWERDimgHqjJ3XgTOH83Ce_oaLTcR6PD-qO0B7x9RldH2Nt-vQxGVDe7JsQYSaEGgVgTGIu1_xzSsyUXkgoAV03UW0pjlPrIhp28DsEXGl6F14JpU5LRDcL7IZXjKGUT9XC2ABA4NORaSna72uq5brBoMpS1IFg.rUxQL9p4I6BiZZtmfWPqLa3EqfRLmjlQZ0HQzIRtiRg&dib_tag=se&keywords=cat%2Btunnel&qid=1769705196&sr=8-2-spons&aref=lijHO7WeRz&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    }
+  },
+  {
+    "id": 218,
+    "name": "Zoo Med ReptiVite (with D3)",
+    "description": "Multivitamin and mineral powder with D3 for reptiles not receiving direct UVB light.",
+    "price": 1250,
+    "category": "medicine",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Snakes",
+      "Indoor Lizards"
+    ],
+    "image": "C:/P_images/218.jpg",
+    "rating": 4.9,
+    "review_count": 4200,
+    "stock": 100,
+    "tags": [
+      "vitamins",
+      "d3",
+      "supplement"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Calcium-Vitamin-Reptile/dp/B005FTMHFC"
+    }
+  },
+  {
+    "id": 219,
+    "name": "Dog Cooling Vest - Blue Chill",
+    "description": "Evaporative cooling vest. Soak in water and wring out to keep dogs cool during summer walks.",
+    "price": 2100,
+    "category": "clothes",
+    "brand": "Ruffwear",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/219.jpg",
+    "rating": 4.7,
+    "review_count": 3100,
+    "stock": 25,
+    "tags": [
+      "summer-care",
+      "cooling",
+      "outdoor"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Ice-Blue-Dog-Cooling-Vest/dp/B0CRYV22QM"
+    }
+  },
+  {
+    "id": 220,
+    "name": "Nekton-S Multivitamin for Birds",
+    "description": "Standard daily multivitamin for all cage birds. Soluble in cold water for easy dosage.",
+    "price": 1350,
+    "category": "medicine",
+    "brand": "Nekton",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/220.jpg",
+    "rating": 4.9,
+    "review_count": 2800,
+    "stock": 120,
+    "tags": [
+      "vitamins",
+      "daily-care",
+      "bird-health"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Nekton-S-Multi-Vitamin-Birds-35gm-ounce/dp/B0002DILSI"
+    }
+  },
+  {
+    "id": 221,
+    "name": "Exo Terra Cricket Pen - Large",
+    "description": "Self-contained cricket storage and feeding unit. Makes feeding live insects mess-free.",
+    "price": 1850,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/221.jpg",
+    "rating": 4.4,
+    "review_count": 3100,
+    "stock": 50,
+    "tags": [
+      "feeding",
+      "live-food",
+      "convenience"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Cricket-Pen-Large/dp/B07CX49JXX"
+    }
+  },
+  {
+    "id": 222,
+    "name": "Savavet Canitreat Soft Chews",
+    "description": "Bacon-flavored treats with Vitamin B complex to improve coat quality and energy in dogs.",
+    "price": 480,
+    "category": "food",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/222.jpg",
+    "rating": 4.6,
+    "review_count": 1200,
+    "stock": 150,
+    "tags": [
+      "vitamins",
+      "treats",
+      "skin-coat"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Fifozone-Cardio-Strength-Tablets-Dogs/dp/B0B49XLXDP?s=bazaar"
+    }
+  },
+  {
+    "id": 223,
+    "name": "Himalaya Erina-EP Powder",
+    "description": "Ectoparasiticidal powder to control fleas, ticks, and lice. Also prevents skin infections.",
+    "price": 120,
+    "category": "grooming",
+    "brand": "Himalaya",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/223.jpg",
+    "rating": 4.5,
+    "review_count": 8900,
+    "stock": 400,
+    "tags": [
+      "flea-control",
+      "ticks",
+      "grooming"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Erina-Ep-Powder-150g/dp/B006G87J5O?s=bazaar"
+    }
+  },
+  {
+    "id": 224,
+    "name": "Bird Wooden Swing with Bells",
+    "description": "Classic wooden perch swing with two small bells to provide auditory stimulation.",
+    "price": 350,
+    "category": "grooming",
+    "brand": "PetSitter",
+    "species": "bird",
+    "suitable_breeds": [
+      "Lovebirds",
+      "Budgies"
+    ],
+    "image": "C:/P_images/224.jpg",
+    "rating": 4.2,
+    "review_count": 1100,
+    "stock": 200,
+    "tags": [
+      "play",
+      "swing",
+      "stimulation"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/birds-swing-hanging/s?k=birds+swing+hanging"
+    }
+  },
+  {
+    "id": 225,
+    "name": "Zilla Rock Lair - Large",
+    "description": "Heavy-duty hideout for large snakes and lizards. Weighted to prevent tipping.",
+    "price": 2400,
+    "category": "grooming",
+    "brand": "Zilla",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Ball Python",
+      "Boa"
+    ],
+    "image": "C:/P_images/225.jpg",
+    "rating": 4.8,
+    "review_count": 890,
+    "stock": 12,
+    "tags": [
+      "hideout",
+      "snakes",
+      "safety"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zilla-Spring-Cave-Reptile-Decor/dp/B07JWJTD1Y/ref=sr_1_5?dib=eyJ2IjoiMSJ9.PyqC9lyYJZQuJC1uDiwq-I_FgCj8N7sjafQX-vCrQxw9Sn8xom7OE2kj8j40JJFFWAjoU-XIf09Dw3A-f_-QGqJEdOnCXpoANUSYlLM98Wh3S4MRIYjiE9Zo18pyBnjp.FoknLBsP0M4oJp-p-E6T843dwhsVk1xh9UmXwelmjdY&dib_tag=se&qid=1769705770&refinements=p_4%3AZilla&s=pet-supplies&sr=1-5"
+    }
+  },
+  {
+    "id": 226,
+    "name": "Zoo Med ReptiBreeze LED Deluxe",
+    "description": "Open-air black aluminum screen cage with built-in LED lighting and a touch-activated sunset mode.",
+    "price": 18500,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Chameleons",
+      "Old World Lizards"
+    ],
+    "image": "C:/P_images/226.jpg",
+    "rating": 4.9,
+    "review_count": 120,
+    "stock": 4,
+    "tags": [
+      "enclosure",
+      "led",
+      "premium"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-ReptiBreeze-Aluminum-Habitat/dp/B014Z4IOC2"
+    }
+  },
+  {
+    "id": 227,
+    "name": "Himalaya Erina Coat Cleanser",
+    "description": "Neem and Hibiscus based shampoo that prevents dandruff and keeps the coat shiny and soft.",
+    "price": 280,
+    "category": "grooming",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/227.jpg",
+    "rating": 4.6,
+    "review_count": 4200,
+    "stock": 300,
+    "tags": [
+      "shampoo",
+      "ayurvedic",
+      "dandruff"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Cleanser-Hairfall-Relieves-Itchiness/dp/B006G87IFK?s=bazaar&th=1"
+    }
+  },
+  {
+    "id": 228,
+    "name": "Bird Preening Toy - Shredder",
+    "description": "Multi-colored palm leaf and coconut fiber toy designed to satisfy a bird's natural instinct to shred.",
+    "price": 450,
+    "category": "grooming",
+    "brand": "Planet Pleasures",
+    "species": "bird",
+    "suitable_breeds": [
+      "Parrots",
+      "Macaws"
+    ],
+    "image": "C:/P_images/228.jpg",
+    "rating": 4.7,
+    "review_count": 950,
+    "stock": 110,
+    "tags": [
+      "shredding",
+      "boredom-buster",
+      "natural"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/KSK-Multicolor-Wooden-Triangle-Ladder/dp/B00WYRHXCU/ref=sr_1_97_sspa?dib=eyJ2IjoiMSJ9.pduU72kQ1LD3qBbCSTg9OOhDQAj_tyQO2fA4ylJqaL5chBndXz94XTZd0peTtnxXnGi5PK0u88BQ3G0YappWxPMWSu3Mx9IPFRRqGeSRFuBAQzrnMdrflt6lNh7ThP6PODqVQo59WKy0FOqMlwde4IIDzzxQyQoB5r7aSuslj4Dj4ff2Aa0uxXJizqC61HIRIEirvM4gQYAWNg6scfMpUfpk2WAwpFET-RQuugJY6bCUWivVUCoL87Qh5gTWRjFHcGyFo2NIv-lFWeg-ZgNeb8MzYXYlibDYnu_1nI3yfR4.XR8fR5ERuRbuXZtMZ6IKNqOgB1BMZb_K5m_5ihf-mPA&dib_tag=se&keywords=foraging%2Btoys%2Bfor%2Bbirds&qid=1769705911&sr=8-97-spons&xpid=Pdd9xwZSKZBDs&aref=LKxFn2YAt6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&smid=A2QZQAJK0DJQ1N&th=1"
+    }
+  },
+  {
+    "id": 229,
+    "name": "Cat GPS Tracker - Slim Profile",
+    "description": "Ultra-lightweight waterproof GPS collar. Real-time tracking and geo-fencing via smartphone app.",
+    "price": 4999,
+    "category": "grooming",
+    "brand": "Tractive",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/229.jpg",
+    "rating": 4.5,
+    "review_count": 18500,
+    "stock": 45,
+    "tags": [
+      "gps",
+      "safety",
+      "tech"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Qpets%C2%AE-Collar-Silicone-Release-Reflective/dp/B0FJMH4W4C/ref=sr_1_3?dib=eyJ2IjoiMSJ9.1CLjv4yWjDWfCy-IunTeZoQurRkXqeq4sXCYMuuGFHg7vBCzgDAju_9Z2rDvabaQlSEuoNs76Q8nTTfPbYHCRi8_apHFjgKryxA5zUBCTTDKcLg0KmOcCm1IxUoqcy_fF94io0DjoV_FhZMdoPirmTpUHYu-YpVC2L6ocmAyHzT9Pi5RGjaaXBRCgWdywNiztsRDjPp7Sfr0ecKoGsw6YgWle-ydCNpadrbs3kviYoc.rvXQVDDM9P0os0xXL8sfOBjzDI78twUUMtSD2n7Hrbo&dib_tag=se&keywords=cat%2Btracker&qid=1769706002&sr=8-3&th=1"
+    }
+  },
+  {
+    "id": 230,
+    "name": "Savavet Visio-Tears Eye Drops",
+    "description": "Lubricating eye drops to provide relief from irritation and dryness for dogs and cats.",
+    "price": 250,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/230.jpg",
+    "rating": 4.4,
+    "review_count": 680,
+    "stock": 150,
+    "tags": [
+      "eye-care",
+      "lubricant",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "supertails": "https://supertails.com/products/savavet-visiotears-eye-drops?srsltid=AfmBOopDPoGTYmyZdixd1PdHcmC0reQnWgRwpBo_TXLMQUgT-XnzF1X-"
+    }
+  },
+  {
+    "id": 231,
+    "name": "Zoo Med ReptiSun 5.0 UVB Lamp",
+    "description": "Ideal for tropical species. Provides necessary UVB for Vitamin D synthesis and calcium metabolism.",
+    "price": 1850,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Green Iguana",
+      "Water Dragon"
+    ],
+    "image": "C:/P_images/231.jpg",
+    "rating": 4.8,
+    "review_count": 3200,
+    "stock": 60,
+    "tags": [
+      "uvb",
+      "tropical",
+      "lighting"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-ReptiSun-Bulb-Watts/dp/B07QYX2R5G"
+    }
+  },
+  {
+    "id": 232,
+    "name": "Vitapol Canary Food - Premium",
+    "description": "Balanced blend of seeds and grains enriched with vitamins and minerals for optimal canary health.",
+    "price": 450,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "Canaries"
+    ],
+    "image": "C:/P_images/232.jpg",
+    "rating": 4.5,
+    "review_count": 890,
+    "stock": 200,
+    "tags": [
+      "daily-food",
+      "seeds",
+      "canary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Karma-Food-Canary-Bird-500/dp/B00LXYI158"
+    }
+  },
+  {
+    "id": 233,
+    "name": "Beaphar Ear Cleaner - 50ml",
+    "description": "Gentle ear cleaner that dissolves wax and dirt. Non-irritating for cats and dogs.",
+    "price": 450,
+    "category": "medicine",
+    "brand": "Beaphar",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/233.jpg",
+    "rating": 4.3,
+    "review_count": 1400,
+    "stock": 90,
+    "tags": [
+      "ear-care",
+      "cleaning",
+      "hygiene"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Beaphar-Cleaning-Solution-Allergies-Dissolve/dp/B0D22VHF2M?s=bazaar"
+    }
+  },
+  {
+    "id": 234,
+    "name": "Dog Inflatable Recovery Collar",
+    "description": "Comfortable alternative to the 'cone of shame'. Allows dogs to eat and drink normally while healing.",
+    "price": 1250,
+    "category": "grooming",
+    "brand": "Bencmate",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/234.jpg",
+    "rating": 4.6,
+    "review_count": 25000,
+    "stock": 70,
+    "tags": [
+      "recovery",
+      "comfort",
+      "post-surgery"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Inflatable-Adjustable-Surgery-Anti-Licking-Recovery/dp/B09SGBTJ2T/ref=zg_bs_g_4771625031_d_sccl_2/521-7288698-8408254?th=1"
+    }
+  },
+  {
+    "id": 235,
+    "name": "Exo Terra Thermostat 600W",
+    "description": "Day/Night thermostat with dimming and pulse proportional function for precise heat management.",
+    "price": 6800,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/235.jpg",
+    "rating": 4.9,
+    "review_count": 520,
+    "stock": 12,
+    "tags": [
+      "tech",
+      "heat-control",
+      "precision"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Inflatable-Adjustable-Surgery-Anti-Licking-Recovery/dp/B09SGBTJ2T/ref=zg_bs_g_4771625031_d_sccl_2/521-7288698-8408254?th=1"
+    }
+  },
+  {
+    "id": 236,
+    "name": "Kaytee Higgins Sunburst Veggies",
+    "description": "A mix of dehydrated garden vegetables for all hookbills. High in Vitamin A.",
+    "price": 650,
+    "category": "food",
+    "brand": "Kaytee",
+    "species": "bird",
+    "suitable_breeds": [
+      "Parrots",
+      "Conures"
+    ],
+    "image": "C:/P_images/236.jpg",
+    "rating": 4.7,
+    "review_count": 820,
+    "stock": 100,
+    "tags": [
+      "vegetables",
+      "treats",
+      "healthy"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Higgins-Sunburst-Gourmet-Hamsters-Gerbils/dp/B009GHII5W"
+    }
+  },
+  {
+    "id": 237,
+    "name": "Cat Scratching Post - Tall Sisal",
+    "description": "32-inch tall sisal rope scratching post with a stable base. Ideal for large cats to stretch.",
+    "price": 2200,
+    "category": "grooming",
+    "brand": "Pioneer Pet",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/237.jpg",
+    "rating": 4.8,
+    "review_count": 31000,
+    "stock": 35,
+    "tags": [
+      "scratching",
+      "sisal",
+      "exercise"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/gp/bestsellers/pet-supplies/4771492031"
+    }
+  },
+  {
+    "id": 238,
+    "name": "Zoo Med Repti Rapids Waterfall",
+    "description": "LED illuminated natural-look waterfall. Adds humidity and provides a moving water source.",
+    "price": 5400,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Chameleons",
+      "Geckos"
+    ],
+    "image": "C:/P_images/238.jpg",
+    "rating": 4.3,
+    "review_count": 450,
+    "stock": 8,
+    "tags": [
+      "water",
+      "decor",
+      "humidity"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-Repti-Rapids-Waterfall/dp/B00M3DXXWE"
+    }
+  },
+  {
+    "id": 239,
+    "name": "Savavet Canisep Spray",
+    "description": "Wound healing spray with herbal extracts. Repels flies and promotes tissue regeneration.",
+    "price": 180,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/239.jpg",
+    "rating": 4.7,
+    "review_count": 1800,
+    "stock": 250,
+    "tags": [
+      "wound-care",
+      "spray",
+      "herbal"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Pet-Supplies-Sava-Vet/s?rh=n%3A2454181031%2Cp_4%3ASava%2BVet"
+    }
+  },
+  {
+    "id": 240,
+    "name": "Bird Swing with Calcium Perch",
+    "description": "T-shaped swing with a sandpaper-textured calcium perch for beak and nail grooming.",
+    "price": 599,
+    "category": "grooming",
+    "brand": "Sweet Tweet",
+    "species": "bird",
+    "suitable_breeds": [
+      "Parakeets",
+      "Cockatiels"
+    ],
+    "image": "C:/P_images/240.jpg",
+    "rating": 4.5,
+    "review_count": 1200,
+    "stock": 150,
+    "tags": [
+      "grooming",
+      "calcium",
+      "swing"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Parrots-Cuttlebone-Standing-Cuttlebone-Accessories-Randomly/dp/B0B61T2QY9?th=1"
+    }
+  },
+  {
+    "id": 241,
+    "name": "Wiggles Organic Hemp Treats",
+    "description": "Peanut butter flavored treats infused with organic hemp for joint health and stress relief.",
+    "price": 650,
+    "category": "food",
+    "brand": "Wiggles",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/241.jpg",
+    "rating": 4.6,
+    "review_count": 1400,
+    "stock": 120,
+    "tags": [
+      "hemp",
+      "organic",
+      "treats"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/WIGGLES-Treats-Training-Adult-Puppies/dp/B0B77NXT2N"
+    }
+  },
+  {
+    "id": 242,
+    "name": "Exo Terra Forest Branch - Medium",
+    "description": "Natural heat-treated wood branch. Provides a three-dimensional climbing environment.",
+    "price": 950,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/242.jpg",
+    "rating": 4.8,
+    "review_count": 6200,
+    "stock": 80,
+    "tags": [
+      "climbing",
+      "decor",
+      "natural"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Forest-Branch-Medium/dp/B0032GAL4Y"
+    }
+  },
+  {
+    "id": 243,
+    "name": "Cat Interactive Laser Toy",
+    "description": "Automatic rotating laser pointer with multiple speed settings. Provides hours of exercise.",
+    "price": 1450,
+    "category": "grooming",
+    "brand": "PetSafe",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/243.jpg",
+    "rating": 4.4,
+    "review_count": 25000,
+    "stock": 60,
+    "tags": [
+      "play",
+      "laser",
+      "automatic"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/cat-laser-toy/s?k=cat+laser+toy"
+    }
+  },
+  {
+    "id": 244,
+    "name": "Savavet Adilip Tablets",
+    "description": "Aids in the management of hyperlipidemia (high cholesterol/fat) in dogs.",
+    "price": 850,
+    "category": "medicine",
+    "brand": "Savavet",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/244.jpg",
+    "rating": 4.7,
+    "review_count": 120,
+    "stock": 40,
+    "tags": [
+      "cholesterol",
+      "heart-health",
+      "veterinary"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Adilip-45-Blister-Pack-Tablets/dp/B083STF4T7"
+    }
+  },
+  {
+    "id": 245,
+    "name": "ZuPreem Real Rewards - Orchard Mix",
+    "description": "A delicious mix of dried apricots, apples, and cherries for medium to large parrots.",
+    "price": 1100,
+    "category": "food",
+    "brand": "ZuPreem",
+    "species": "bird",
+    "suitable_breeds": [
+      "Amazon Parrots",
+      "Cockatoos"
+    ],
+    "image": "C:/P_images/245.jpg",
+    "rating": 4.8,
+    "review_count": 520,
+    "stock": 70,
+    "tags": [
+      "fruit",
+      "treats",
+      "premium"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.co.uk/ZuPreem-Rewards-Orchard-Medium-Treats/dp/B01GVZON2I"
+    }
+  },
+  {
+    "id": 246,
+    "name": "Zoo Med Repti Sand - Midnight Black",
+    "description": "Natural desert sand with no added dyes or chemicals. Ideal for burrowing reptiles.",
+    "price": 1250,
+    "category": "grooming",
+    "brand": "Zoo Med",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Desert Lizards",
+      "Sand Boas"
+    ],
+    "image": "C:/P_images/246.jpg",
+    "rating": 4.6,
+    "review_count": 2100,
+    "stock": 100,
+    "tags": [
+      "substrate",
+      "desert",
+      "black-sand"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Zoo-Med-ReptiSand-Midnight-pounds/dp/B001VJ0DJC"
+    }
+  },
+  {
+    "id": 247,
+    "name": "Himalaya Erina-EP Shampoo",
+    "description": "Tick and flea control shampoo. Prevents skin infections and helps maintain a healthy coat.",
+    "price": 250,
+    "category": "grooming",
+    "brand": "Himalaya",
+    "species": "dog",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/247.jpg",
+    "rating": 4.8,
+    "review_count": 12500,
+    "stock": 200,
+    "tags": [
+      "tick-control",
+      "flea-control",
+      "ayurvedic"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Himalaya-Erina-EP-Shampoo-500-ml/dp/B075GQFB2M?s=bazaar&th=1"
+    }
+  },
+  {
+    "id": 248,
+    "name": "Cat Window Perch - Double Decker",
+    "description": "Two-level window mounted hammock. Holds up to 20kg. Perfect for multi-cat households.",
+    "price": 3500,
+    "category": "grooming",
+    "brand": "KittySill",
+    "species": "cat",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/248.jpg",
+    "rating": 4.9,
+    "review_count": 8900,
+    "stock": 15,
+    "tags": [
+      "window-perch",
+      "hammock",
+      "multi-cat"
+    ],
+    "is_trending": true,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Pecute-Double-Decker-Hammock-Suction-Cordless/dp/B0C7TYGRK3"
+    }
+  },
+  {
+    "id": 249,
+    "name": "Bird Mineral Block with Honey",
+    "description": "Essential mineral source for all birds. Honey flavor encourages consumption.",
+    "price": 220,
+    "category": "food",
+    "brand": "Vitapol",
+    "species": "bird",
+    "suitable_breeds": [
+      "all"
+    ],
+    "image": "C:/P_images/249.jpg",
+    "rating": 4.3,
+    "review_count": 1100,
+    "stock": 300,
+    "tags": [
+      "minerals",
+      "honey",
+      "daily-care"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/mineral-blocks-for-birds/s?k=mineral+blocks+for+birds&page=2"
+    }
+  },
+  {
+    "id": 250,
+    "name": "Exo Terra Screen Terrarium - X-Large",
+    "description": "High-quality mesh enclosure for large arboreal reptiles. Provides maximum ventilation.",
+    "price": 12500,
+    "category": "grooming",
+    "brand": "Exo Terra",
+    "species": "reptile",
+    "suitable_breeds": [
+      "Green Iguana",
+      "Frilled Dragon"
+    ],
+    "image": "C:/P_images/250.jpg",
+    "rating": 4.7,
+    "review_count": 310,
+    "stock": 5,
+    "tags": [
+      "enclosure",
+      "mesh",
+      "large-reptile"
+    ],
+    "is_trending": false,
+    "available_on": {
+      "amazon": "https://www.amazon.in/Exo-Terra-Screen-Terrarium-Large/dp/B014I4HGQO"
+    }
+  }
+]

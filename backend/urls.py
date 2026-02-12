@@ -28,11 +28,27 @@ urlpatterns = [
     
     path('api/auth/registration/', include('dj_rest_auth.registration.urls')),
 
+    path('api/chat/', include('chat.urls')),
+
+    path('api/breeding/', include('breeding.urls')),
+
+    path('api/education/', include('education.urls')),
+
+    path('api/services/', include('services.urls')),
+
+ path('api/info/', include('info.urls')), 
+
+    path('api/products/', include('products.urls')),
+        path('api/', include('products.category_urls')), 
+    path('api/reviews/', include('reviews.urls')),
+    path('api/adoption/', include('adoption.urls')),
+    path('api/doctors/', include('doctors.urls')),
 ]
 
 # Redirect after login/logout
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
+
 
 # ✅ Serve media files during development
 if settings.DEBUG:

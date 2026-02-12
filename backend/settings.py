@@ -1,18 +1,60 @@
+import MySQLdb
+import dj_database_url
+MySQLdb.version_info = (2, 2, 7, "final", 0)
+
+
 import os
 from pathlib import Path
 from datetime import timedelta
 
+# ============ Python 3.14 Compatibility Patch ============
+import sys
+if sys.version_info >= (3, 14):
+    import django.template.context
+    
+    # Fix the __copy__ method for BaseContext
+    original_base_context = django.template.context.BaseContext
+    
+    def patched_copy(self):
+        duplicate = self.__class__()
+        # Copy the dicts list properly
+        if hasattr(self, '_dict_stack'):
+            duplicate._dict_stack = self._dict_stack[:]
+        duplicate.update(self)
+        return duplicate
+    
+    original_base_context.__copy__ = patched_copy
+    
+    # Also patch RequestContext if needed
+    request_context = django.template.context.RequestContext
+    request_context.__copy__ = patched_copy
+# ============ End of Patch ============
+
 # Base directory
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+
 # Security
 SECRET_KEY = "your-secret-key-here"
-DEBUG = True
-ALLOWED_HOSTS = ["*"]
+DEBUG = False
 
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',
+        'LOCATION': os.path.join(BASE_DIR, 'cache_data'),
+        'TIMEOUT': 60 * 60 * 24 * 7,  # 7 days
+        'OPTIONS': {
+            'MAX_ENTRIES': 10000
+        }
+    }
+}
 # Installed apps
 INSTALLED_APPS = [
+     "daphne", 
+     'channels',
+
     # Django default apps
+    'jazzmin',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -33,12 +75,35 @@ INSTALLED_APPS = [
     # Google provider
     'allauth.socialaccount.providers.google',
     "corsheaders",
+     
 
     # Your apps
     "users",
     "pets",
-]
+    'chat',
+    'breeding',
+    'education',
+    'services',
+    'products',
+    'reviews',
+    'info',
+    'adoption',
+    'doctors',
+    ]
 SITE_ID = 1 
+
+# ==================== API KEYS ====================
+# Get your YouTube API key from: https://console.cloud.google.com/
+YOUTUBE_API_KEY = 'AIzaSyBwulJHyQcHwsPagHMh-S51MUBfbOw90AU'
+
+
+DOG_API_KEY = 'live_4AodKcm1BXsQrD1023NMLs5Ms2pClQSV0kbF3W8e6XFKja4xO239EZLIScVkFGJK'
+CAT_API_KEY = 'live_OsWnjPorxBx0x0F4W43Mk1sE0aHObxLhmndtp1l3anHkq0Yc5EbRIJrCzuX8GE2H'
+
+
+# Optional: Get News API key from: https://newsapi.org/
+NEWS_API_KEY = '61570ce5c2544eeba7431d90b7b6a5d2'  # Free tier: 100 requests/day
+
 
 # Middleware
 MIDDLEWARE = [
@@ -77,21 +142,32 @@ TEMPLATES = [
 WSGI_APPLICATION = "backend.wsgi.application"
 
 # Database (MySQL)
+# Database (MySQL)
+# DATABASES = {
+#     "default": {
+#         "ENGINE": "django.db.backends.mysql",
+#         "NAME": "happy_pets_db",
+#         "USER": "root",
+#         "PASSWORD": "shaikh@9121",
+#         "HOST": "localhost",
+#         "PORT": "3306",
+#         "OPTIONS": {
+#          'charset': 'utf8mb4',
+#             "init_command": "SET sql_mode='STRICT_TRANS_TABLES'",
+#         },
+#     }
+# }
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.mysql",
-        "NAME": "happy_pets_db",
-        "USER": "happyuser",
-        "PASSWORD": "strongpassword123",
-        "HOST": "localhost",
-        "PORT": "3306",
-        "OPTIONS": {
-            "init_command": "SET sql_mode='STRICT_TRANS_TABLES'",
-        },
-    }
+    "default": dj_database_url.config(
+        default=os.environ.get("DATABASE_URL")
+    )
 }
 
+# Disable MariaDB version check for XAMPP compatibility
+
+
 # Custom User model
+
 AUTH_USER_MODEL = "users.CustomUser"
 
 # Password validation
@@ -106,7 +182,7 @@ AUTH_PASSWORD_VALIDATORS = [
 LANGUAGE_CODE = "en-us"
 TIME_ZONE = "Asia/Kolkata"
 USE_I18N = True
-USE_TZ = True
+USE_TZ = False 
 
 # Static & media files
 STATIC_URL = "/static/"
@@ -158,3 +234,56 @@ REST_AUTH_TOKEN_MODEL = None
 
 # Default primary key field type
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+ #Channels Configuration
+ASGI_APPLICATION = 'backend.asgi.application'  # Replace 'your_project_name' with your actual project name
+
+CHANNEL_LAYERS = {
+    'default': {
+        'BACKEND': 'channels.layers.InMemoryChannelLayer'  # Simple in-memory for development
+        # For production, use Redis:
+        # 'BACKEND': 'channels_redis.core.RedisChannelLayer',
+        # 'CONFIG': {
+        #     "hosts": [('127.0.0.1', 6379)],
+        # },
+    },
+}
+
+# File upload settings
+FILE_UPLOAD_MAX_MEMORY_SIZE = 10485760  # 10MB
+DATA_UPLOAD_MAX_MEMORY_SIZE = 10485760  # 10MB
+
+
+
+# Create media directories on startup
+CHAT_UPLOADS_DIR = os.path.join(MEDIA_ROOT, 'chat_uploads')
+os.makedirs(CHAT_UPLOADS_DIR, exist_ok=True)
+
+
+# WebSocket URL
+ALLOWED_HOSTS = ['*']
+
+
+
+# Create media directories on startup
+CHAT_UPLOADS_DIR = os.path.join(MEDIA_ROOT, 'chat_uploads')
+os.makedirs(CHAT_UPLOADS_DIR, exist_ok=True)
+
+# Temporary placeholders (so your server starts)
+STRIPE_PUBLIC_KEY = 'pk_test_51SzHeXLuFSfx6wEssQT9Iu2j0zHE41imQAMGuhiuwyPbflXlHiu3kf8KLc3RSeugJT4p2fRRa7mDeR6r1hZ4Iy9p00o5mdOHbA'
+STRIPE_SECRET_KEY = 'sk_test_51SzHeXLuFSfx6wEsWyWY3f3rLUTrJHCIYkvcDRalledZrK2yHYvUwd12ouWXC9WJItrfbc0rRDZkW69C0W323bsS0000XLWqm5'
+DAILY_API_KEY = '38ba3684aa7a13bfcf757d0fcdb817e21cf468b7694767e0e9e713a9f5f01e2e'
+DAILY_DOMAIN = 'happy-pets.daily.co'  
+
+
+os.makedirs(os.path.join(MEDIA_ROOT, 'chat_images'), exist_ok=True)
+os.makedirs(os.path.join(MEDIA_ROOT, 'doctors/profiles'), exist_ok=True)
+os.makedirs(os.path.join(MEDIA_ROOT, 'doctors/licenses'), exist_ok=True)
+
+# File upload settings
+FILE_UPLOAD_MAX_MEMORY_SIZE = 5242880  # 5MB
+DATA_UPLOAD_MAX_MEMORY_SIZE = 5242880  # 5MB
+
+# Allowed file extensions
+ALLOWED_IMAGE_EXTENSIONS = ['jpg', 'jpeg', 'png', 'gif', 'webp']
+MAX_IMAGE_SIZE = 5 * 1024 * 1024  # 5MB
