@@ -1,8 +1,4 @@
-import MySQLdb
 import dj_database_url
-MySQLdb.version_info = (2, 2, 7, "final", 0)
-
-
 import os
 from pathlib import Path
 from datetime import timedelta
