@@ -1,8 +1,8 @@
 Django
-MySQLdb
 gunicorn
 mysqlclient
 whitenoise
+dj-database-url
 djangorestframework
 dj-rest-auth
 django-allauth
