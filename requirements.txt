@@ -10,3 +10,4 @@ django-cors-headers
 daphne
 channels
 PyJWT
+django-jazzmin
