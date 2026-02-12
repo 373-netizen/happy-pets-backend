@@ -12,3 +12,4 @@ channels
 daphne
 django-jazzmin
 PyJWT
+requests
