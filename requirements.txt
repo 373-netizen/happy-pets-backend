@@ -1,13 +1,14 @@
 Django
 gunicorn
 mysqlclient
-whitenoise
 dj-database-url
+whitenoise
 djangorestframework
+djangorestframework-simplejwt
 dj-rest-auth
 django-allauth
 django-cors-headers
-daphne
 channels
-PyJWT
+daphne
 django-jazzmin
+PyJWT
